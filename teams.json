@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated_at": "2025-08-20T08:00:00Z",
+  "teams": [
+    { "logo": "cloud9",    "names": ["Cloud9", "C9"] },
+    { "logo": "g2",        "names": ["G2 Esports", "G2"] },
+    { "logo": "100thieves","names": ["100 Thieves", "100T"] },
+    { "logo": "leviatan",  "names": ["LEVIATÁN", "Leviatan"] },
+    { "logo": "kru",       "names": ["KRÜ Esports", "KRU"] },
+    { "logo": "liquid",    "names": ["Team Liquid", "Liquid"] },
+    { "logo": "heretics",  "names": ["Team Heretics", "Heretics"] },
+    { "logo": "fnatic",    "names": ["FNATIC", "Fnatic"] },
+    { "logo": "bbl",       "names": ["BBL Esports", "BBL"] }
+  ]
+}
