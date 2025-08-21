@@ -1,0 +1,5060 @@
+{
+  "version": 1,
+  "updated_at": "2025-08-21T09:54:13.926Z",
+  "teams": [
+    {
+      "logo": "logos/1-bilibili.png",
+      "names": [
+        "1 Bilibili Gaming"
+      ]
+    },
+    {
+      "logo": "logos/1-e-king.png",
+      "names": [
+        "1 E-KING"
+      ]
+    },
+    {
+      "logo": "logos/1-e-xolos-lazer.png",
+      "names": [
+        "1 E-Xolos LAZER"
+      ]
+    },
+    {
+      "logo": "logos/1-fnatic.png",
+      "names": [
+        "1 FNATIC"
+      ]
+    },
+    {
+      "logo": "logos/1-gen-g.png",
+      "names": [
+        "1 Gen.G"
+      ]
+    },
+    {
+      "logo": "logos/1-leviatan-academy.png",
+      "names": [
+        "1 LEVIATÁN Academy"
+      ]
+    },
+    {
+      "logo": "logos/1-maryville-university.png",
+      "names": [
+        "1 Maryville University"
+      ]
+    },
+    {
+      "logo": "logos/1-paper-rex.png",
+      "names": [
+        "1 Paper Rex"
+      ]
+    },
+    {
+      "logo": "logos/1-riddle-order.png",
+      "names": [
+        "1 RIDDLE ORDER"
+      ]
+    },
+    {
+      "logo": "logos/1-sentinels.png",
+      "names": [
+        "1 Sentinels"
+      ]
+    },
+    {
+      "logo": "logos/1-shopify-rebellion-gold.png",
+      "names": [
+        "1 Shopify Rebellion Gold"
+      ]
+    },
+    {
+      "logo": "logos/1-stellae.png",
+      "names": [
+        "1 Stellae Gaming"
+      ]
+    },
+    {
+      "logo": "logos/1-twisted-minds.png",
+      "names": [
+        "1 Twisted Minds"
+      ]
+    },
+    {
+      "logo": "logos/10-2game.png",
+      "names": [
+        "10 2Game Esports"
+      ]
+    },
+    {
+      "logo": "logos/10-3bl.png",
+      "names": [
+        "10 3BL Esports"
+      ]
+    },
+    {
+      "logo": "logos/10-cnj.png",
+      "names": [
+        "10 CNJ Esports"
+      ]
+    },
+    {
+      "logo": "logos/10-dolphins.png",
+      "names": [
+        "10 Dolphins Gaming"
+      ]
+    },
+    {
+      "logo": "logos/10-edge.png",
+      "names": [
+        "10 EDGE"
+      ]
+    },
+    {
+      "logo": "logos/10-fisher-navy.png",
+      "names": [
+        "10 Fisher Navy"
+      ]
+    },
+    {
+      "logo": "logos/10-funplus-phoenix.png",
+      "names": [
+        "10 FunPlus Phoenix"
+      ]
+    },
+    {
+      "logo": "logos/10-koi-fenix.png",
+      "names": [
+        "10 KOI Fénix"
+      ]
+    },
+    {
+      "logo": "logos/10-lit-penguin.png",
+      "names": [
+        "10 LIT Penguin"
+      ]
+    },
+    {
+      "logo": "logos/10-maryville-university.png",
+      "names": [
+        "10 Maryville University"
+      ]
+    },
+    {
+      "logo": "logos/10-reject.png",
+      "names": [
+        "10 REJECT"
+      ]
+    },
+    {
+      "logo": "logos/10-sadhub.png",
+      "names": [
+        "10 SadHub Esports"
+      ]
+    },
+    {
+      "logo": "logos/10-sk-nebula.png",
+      "names": [
+        "10 SK Nebula"
+      ]
+    },
+    {
+      "logo": "logos/100-thieves.png",
+      "names": [
+        "100 Thieves"
+      ]
+    },
+    {
+      "logo": "logos/11-5kstudios.png",
+      "names": [
+        "11 5KStudios"
+      ]
+    },
+    {
+      "logo": "logos/11-boom.png",
+      "names": [
+        "11 BOOM Esports"
+      ]
+    },
+    {
+      "logo": "logos/11-eternal-flame.png",
+      "names": [
+        "11 Eternal Flame"
+      ]
+    },
+    {
+      "logo": "logos/11-f4tality.png",
+      "names": [
+        "11 F4TALITY"
+      ]
+    },
+    {
+      "logo": "logos/11-keepbest.png",
+      "names": [
+        "11 KeepBest Gaming"
+      ]
+    },
+    {
+      "logo": "logos/11-murash.png",
+      "names": [
+        "11 Murash Gaming"
+      ]
+    },
+    {
+      "logo": "logos/11-oly.png",
+      "names": [
+        "11 OLY"
+      ]
+    },
+    {
+      "logo": "logos/11-relay.png",
+      "names": [
+        "11 Relay Team"
+      ]
+    },
+    {
+      "logo": "logos/11-ulf.png",
+      "names": [
+        "11 ULF Esports"
+      ]
+    },
+    {
+      "logo": "logos/11-university-of-central-florida.png",
+      "names": [
+        "11 University of Central Florida"
+      ]
+    },
+    {
+      "logo": "logos/11-wadadaa.png",
+      "names": [
+        "11 Wadadaa"
+      ]
+    },
+    {
+      "logo": "logos/11-winthrop-university.png",
+      "names": [
+        "11 Winthrop University"
+      ]
+    },
+    {
+      "logo": "logos/11-xyz.png",
+      "names": [
+        "11 xyz"
+      ]
+    },
+    {
+      "logo": "logos/12-blue-bees-esp.png",
+      "names": [
+        "12 BLUE BEES.ESP"
+      ]
+    },
+    {
+      "logo": "logos/12-cgn.png",
+      "names": [
+        "12 CGN Esports"
+      ]
+    },
+    {
+      "logo": "logos/12-chivas.png",
+      "names": [
+        "12 Chivas Esports"
+      ]
+    },
+    {
+      "logo": "logos/12-csuf-orange.png",
+      "names": [
+        "12 CSUF Orange"
+      ]
+    },
+    {
+      "logo": "logos/12-frozen-3.png",
+      "names": [
+        "12 Frozen 3"
+      ]
+    },
+    {
+      "logo": "logos/12-inside.png",
+      "names": [
+        "12 inside"
+      ]
+    },
+    {
+      "logo": "logos/12-manga.png",
+      "names": [
+        "12 manga"
+      ]
+    },
+    {
+      "logo": "logos/12-mibr.png",
+      "names": [
+        "12 MIBR GC"
+      ]
+    },
+    {
+      "logo": "logos/12-nova.png",
+      "names": [
+        "12 Nova Esports"
+      ]
+    },
+    {
+      "logo": "logos/12-rabbit-gang.png",
+      "names": [
+        "12 rabbit gang"
+      ]
+    },
+    {
+      "logo": "logos/12-tsm.png",
+      "names": [
+        "12 TSM"
+      ]
+    },
+    {
+      "logo": "logos/12-xipto.png",
+      "names": [
+        "12 Xipto Esports",
+        "12 Xipto Esports GC"
+      ]
+    },
+    {
+      "logo": "logos/13-beyond-stratos.png",
+      "names": [
+        "13 Beyond Stratos Gaming"
+      ]
+    },
+    {
+      "logo": "logos/13-bigetron-arctic.png",
+      "names": [
+        "13 Bigetron Arctic"
+      ]
+    },
+    {
+      "logo": "logos/13-burger.png",
+      "names": [
+        "13 Team Burger"
+      ]
+    },
+    {
+      "logo": "logos/13-citrus-e-sports.png",
+      "names": [
+        "13 Citrus e-sports"
+      ]
+    },
+    {
+      "logo": "logos/13-fraggerz.png",
+      "names": [
+        "13 Fraggerz"
+      ]
+    },
+    {
+      "logo": "logos/13-liquid-academy.png",
+      "names": [
+        "13 Team Liquid Academy"
+      ]
+    },
+    {
+      "logo": "logos/13-ninetails.png",
+      "names": [
+        "13 Ninetails"
+      ]
+    },
+    {
+      "logo": "logos/13-od.png",
+      "names": [
+        "13 OD Gaming"
+      ]
+    },
+    {
+      "logo": "logos/13-oxen-bull-beats.png",
+      "names": [
+        "13 OXEN BULL BEATS"
+      ]
+    },
+    {
+      "logo": "logos/13-paysandu.png",
+      "names": [
+        "13 Paysandu Esports"
+      ]
+    },
+    {
+      "logo": "logos/13-spx-crew.png",
+      "names": [
+        "13 Spx Crew"
+      ]
+    },
+    {
+      "logo": "logos/13-uwaterloo-gold.png",
+      "names": [
+        "13 UWaterloo Gold"
+      ]
+    },
+    {
+      "logo": "logos/13-yfp-pigeons.png",
+      "names": [
+        "13 YFP Pigeons"
+      ]
+    },
+    {
+      "logo": "logos/14-all-gamers.png",
+      "names": [
+        "14 All Gamers"
+      ]
+    },
+    {
+      "logo": "logos/14-alt-f4.png",
+      "names": [
+        "14 ALT F4"
+      ]
+    },
+    {
+      "logo": "logos/14-baiters.png",
+      "names": [
+        "14 Baiters"
+      ]
+    },
+    {
+      "logo": "logos/14-binus-x-widyatama.png",
+      "names": [
+        "14 Binus x Widyatama"
+      ]
+    },
+    {
+      "logo": "logos/14-eternal-fire.png",
+      "names": [
+        "14 Eternal Fire"
+      ]
+    },
+    {
+      "logo": "logos/14-mad-army.png",
+      "names": [
+        "14 MAD Army"
+      ]
+    },
+    {
+      "logo": "logos/14-nightblood.png",
+      "names": [
+        "14 Nightblood Gaming"
+      ]
+    },
+    {
+      "logo": "logos/14-nuclear.png",
+      "names": [
+        "14 Nuclear"
+      ]
+    },
+    {
+      "logo": "logos/14-nx.png",
+      "names": [
+        "14 NX"
+      ]
+    },
+    {
+      "logo": "logos/14-oasis.png",
+      "names": [
+        "14 Oasis Gaming"
+      ]
+    },
+    {
+      "logo": "logos/14-old-school-kr3w.png",
+      "names": [
+        "14 Old School Kr3w"
+      ]
+    },
+    {
+      "logo": "logos/14-orgless-2-0.png",
+      "names": [
+        "14 Orgless 2.0"
+      ]
+    },
+    {
+      "logo": "logos/14-seibi.png",
+      "names": [
+        "14 Team SEIBI"
+      ]
+    },
+    {
+      "logo": "logos/15-box-of-rocketz.png",
+      "names": [
+        "15 BOX OF ROCKETZ"
+      ]
+    },
+    {
+      "logo": "logos/15-elevate.png",
+      "names": [
+        "15 Elevate"
+      ]
+    },
+    {
+      "logo": "logos/15-fuego.png",
+      "names": [
+        "15 FUEGO"
+      ]
+    },
+    {
+      "logo": "logos/15-gng.png",
+      "names": [
+        "15 GnG Esports"
+      ]
+    },
+    {
+      "logo": "logos/15-kru-blaze.png",
+      "names": [
+        "15 KRÜ BLAZE"
+      ]
+    },
+    {
+      "logo": "logos/15-liquid-brazil.png",
+      "names": [
+        "15 Team Liquid Brazil"
+      ]
+    },
+    {
+      "logo": "logos/15-natus-vincere.png",
+      "names": [
+        "15 Natus Vincere"
+      ]
+    },
+    {
+      "logo": "logos/15-rrq-academy.png",
+      "names": [
+        "15 RRQ Academy"
+      ]
+    },
+    {
+      "logo": "logos/15-solar-anthem.png",
+      "names": [
+        "15 SOLAR ANTHEM"
+      ]
+    },
+    {
+      "logo": "logos/15-twisted-minds-orchid.png",
+      "names": [
+        "15 Twisted Minds Orchid"
+      ]
+    },
+    {
+      "logo": "logos/15-weibo.png",
+      "names": [
+        "15 Weibo Gaming"
+      ]
+    },
+    {
+      "logo": "logos/15-west-virginia-university.png",
+      "names": [
+        "15 West Virginia University"
+      ]
+    },
+    {
+      "logo": "logos/15-ync.png",
+      "names": [
+        "15 YnC"
+      ]
+    },
+    {
+      "logo": "logos/16-batalhao-do-nono.png",
+      "names": [
+        "16 batalhao do nonô"
+      ]
+    },
+    {
+      "logo": "logos/2-fennel.png",
+      "names": [
+        "2 FENNEL"
+      ]
+    },
+    {
+      "logo": "logos/2-full-house.png",
+      "names": [
+        "2 Full House"
+      ]
+    },
+    {
+      "logo": "logos/2-full-sense.png",
+      "names": [
+        "2 FULL SENSE"
+      ]
+    },
+    {
+      "logo": "logos/2-g2.png",
+      "names": [
+        "2 G2 Esports"
+      ]
+    },
+    {
+      "logo": "logos/2-heretics.png",
+      "names": [
+        "2 Team Heretics"
+      ]
+    },
+    {
+      "logo": "logos/2-kru.png",
+      "names": [
+        "2 KRÜ Esports"
+      ]
+    },
+    {
+      "logo": "logos/2-liquid-brazil.png",
+      "names": [
+        "2 Team Liquid Brazil"
+      ]
+    },
+    {
+      "logo": "logos/2-mibr.png",
+      "names": [
+        "2 MIBR"
+      ]
+    },
+    {
+      "logo": "logos/2-six-karma.png",
+      "names": [
+        "2 Six Karma"
+      ]
+    },
+    {
+      "logo": "logos/2-t1.png",
+      "names": [
+        "2 T1"
+      ]
+    },
+    {
+      "logo": "logos/2-the-ultimates.png",
+      "names": [
+        "2 The Ultimates"
+      ]
+    },
+    {
+      "logo": "logos/2-winthrop-university.png",
+      "names": [
+        "2 Winthrop University"
+      ]
+    },
+    {
+      "logo": "logos/2-xi-lai.png",
+      "names": [
+        "2 Xi Lai Gaming"
+      ]
+    },
+    {
+      "logo": "logos/2game.png",
+      "names": [
+        "2Game Esports"
+      ]
+    },
+    {
+      "logo": "logos/2game-academy.png",
+      "names": [
+        "2Game Academy"
+      ]
+    },
+    {
+      "logo": "logos/3-abbas-and-friends.png",
+      "names": [
+        "3 Abbas and Friends"
+      ]
+    },
+    {
+      "logo": "logos/3-drx.png",
+      "names": [
+        "3 DRX"
+      ]
+    },
+    {
+      "logo": "logos/3-edward.png",
+      "names": [
+        "3 EDward Gaming"
+      ]
+    },
+    {
+      "logo": "logos/3-falcons-vega.png",
+      "names": [
+        "3 Team Falcons Vega"
+      ]
+    },
+    {
+      "logo": "logos/3-mouz.png",
+      "names": [
+        "3 MOUZ"
+      ]
+    },
+    {
+      "logo": "logos/3-northwood-university.png",
+      "names": [
+        "3 Northwood University"
+      ]
+    },
+    {
+      "logo": "logos/3-nrg.png",
+      "names": [
+        "3 NRG"
+      ]
+    },
+    {
+      "logo": "logos/3-oxen.png",
+      "names": [
+        "3 OXEN"
+      ]
+    },
+    {
+      "logo": "logos/3-raad.png",
+      "names": [
+        "3 Team RA'AD"
+      ]
+    },
+    {
+      "logo": "logos/3-rex-regum-qeon.png",
+      "names": [
+        "3 Rex Regum Qeon"
+      ]
+    },
+    {
+      "logo": "logos/3-shinden.png",
+      "names": [
+        "3 ShindeN"
+      ]
+    },
+    {
+      "logo": "logos/3-solid.png",
+      "names": [
+        "3 Team Solid"
+      ]
+    },
+    {
+      "logo": "logos/3-zeta-division.png",
+      "names": [
+        "3 ZETA DIVISION"
+      ]
+    },
+    {
+      "logo": "logos/3bl.png",
+      "names": [
+        "3BL Esports"
+      ]
+    },
+    {
+      "logo": "logos/4-9z.png",
+      "names": [
+        "4 9z Team"
+      ]
+    },
+    {
+      "logo": "logos/4-alqadsiah.png",
+      "names": [
+        "4 AlQadsiah Esports"
+      ]
+    },
+    {
+      "logo": "logos/4-bbl-pcific.png",
+      "names": [
+        "4 BBL PCIFIC"
+      ]
+    },
+    {
+      "logo": "logos/4-bobo.png",
+      "names": [
+        "4 BOBO"
+      ]
+    },
+    {
+      "logo": "logos/4-dragon-ranger.png",
+      "names": [
+        "4 Dragon Ranger Gaming"
+      ]
+    },
+    {
+      "logo": "logos/4-envy.png",
+      "names": [
+        "4 ENVY"
+      ]
+    },
+    {
+      "logo": "logos/4-kru-blaze.png",
+      "names": [
+        "4 KRÜ BLAZE"
+      ]
+    },
+    {
+      "logo": "logos/4-motiv.png",
+      "names": [
+        "4 Motiv Esports"
+      ]
+    },
+    {
+      "logo": "logos/4-noez-foxx.png",
+      "names": [
+        "4 NOEZ FOXX"
+      ]
+    },
+    {
+      "logo": "logos/4-nongshim-redforce.png",
+      "names": [
+        "4 Nongshim RedForce"
+      ]
+    },
+    {
+      "logo": "logos/4-red-canids.png",
+      "names": [
+        "4 RED Canids"
+      ]
+    },
+    {
+      "logo": "logos/4-ufoxskalle.png",
+      "names": [
+        "4 UFOXSkalle"
+      ]
+    },
+    {
+      "logo": "logos/4-ust.png",
+      "names": [
+        "4 UST Esports"
+      ]
+    },
+    {
+      "logo": "logos/5-contra.png",
+      "names": [
+        "5 Contra"
+      ]
+    },
+    {
+      "logo": "logos/5-corinthians.png",
+      "names": [
+        "5 Corinthians Esports"
+      ]
+    },
+    {
+      "logo": "logos/5-cumberland-phoenix.png",
+      "names": [
+        "5 Cumberland Phoenix"
+      ]
+    },
+    {
+      "logo": "logos/5-delight.png",
+      "names": [
+        "5 Delight"
+      ]
+    },
+    {
+      "logo": "logos/5-enterprise.png",
+      "names": [
+        "5 Enterprise Esports"
+      ]
+    },
+    {
+      "logo": "logos/5-g2-gozen.png",
+      "names": [
+        "5 G2 Gozen"
+      ]
+    },
+    {
+      "logo": "logos/5-gamax.png",
+      "names": [
+        "5 Gamax Esports"
+      ]
+    },
+    {
+      "logo": "logos/5-mixpe.png",
+      "names": [
+        "5 MixPe"
+      ]
+    },
+    {
+      "logo": "logos/5-qor.png",
+      "names": [
+        "5 QoR"
+      ]
+    },
+    {
+      "logo": "logos/5-t1-academy.png",
+      "names": [
+        "5 T1 Academy"
+      ]
+    },
+    {
+      "logo": "logos/5-talon.png",
+      "names": [
+        "5 TALON"
+      ]
+    },
+    {
+      "logo": "logos/5-trace.png",
+      "names": [
+        "5 Trace Esports"
+      ]
+    },
+    {
+      "logo": "logos/5-vina-side-hustle.png",
+      "names": [
+        "5 VINA SIDE HUSTLE"
+      ]
+    },
+    {
+      "logo": "logos/5kstudios.png",
+      "names": [
+        "5KStudios"
+      ]
+    },
+    {
+      "logo": "logos/6-100-thieves.png",
+      "names": [
+        "6 100 Thieves"
+      ]
+    },
+    {
+      "logo": "logos/6-bbl.png",
+      "names": [
+        "6 BBL Esports"
+      ]
+    },
+    {
+      "logo": "logos/6-detonation-focusme.png",
+      "names": [
+        "6 DetonatioN FocusMe"
+      ]
+    },
+    {
+      "logo": "logos/6-exotick.png",
+      "names": [
+        "6 EXOTICK ESPORTS"
+      ]
+    },
+    {
+      "logo": "logos/6-kaos-latin-gamers.png",
+      "names": [
+        "6 Kaos Latin Gamers"
+      ]
+    },
+    {
+      "logo": "logos/6-los-grandes.png",
+      "names": [
+        "6 Los Grandes"
+      ]
+    },
+    {
+      "logo": "logos/6-mibr.png",
+      "names": [
+        "6 MIBR GC"
+      ]
+    },
+    {
+      "logo": "logos/6-nobles.png",
+      "names": [
+        "6 NOBLES"
+      ]
+    },
+    {
+      "logo": "logos/6-og.png",
+      "names": [
+        "6 OG"
+      ]
+    },
+    {
+      "logo": "logos/6-slt-seongnam.png",
+      "names": [
+        "6 SLT Seongnam"
+      ]
+    },
+    {
+      "logo": "logos/6-tamu-maroon.png",
+      "names": [
+        "6 TAMU Maroon"
+      ]
+    },
+    {
+      "logo": "logos/6-velocity.png",
+      "names": [
+        "6 Velocity Gaming"
+      ]
+    },
+    {
+      "logo": "logos/6-wolves.png",
+      "names": [
+        "6 Wolves Esports"
+      ]
+    },
+    {
+      "logo": "logos/7-2game-academy.png",
+      "names": [
+        "7 2Game Academy"
+      ]
+    },
+    {
+      "logo": "logos/7-akave.png",
+      "names": [
+        "7 Akave Esports GC"
+      ]
+    },
+    {
+      "logo": "logos/7-crest-zst.png",
+      "names": [
+        "7 CREST GAMING Zst"
+      ]
+    },
+    {
+      "logo": "logos/7-cubert-academy.png",
+      "names": [
+        "7 Cubert Academy"
+      ]
+    },
+    {
+      "logo": "logos/7-fearx.png",
+      "names": [
+        "7 FEARX"
+      ]
+    },
+    {
+      "logo": "logos/7-fusion.png",
+      "names": [
+        "7 FUSION"
+      ]
+    },
+    {
+      "logo": "logos/7-liquid.png",
+      "names": [
+        "7 Team Liquid"
+      ]
+    },
+    {
+      "logo": "logos/7-marlon-n-friends.png",
+      "names": [
+        "7 Marlon N Friends"
+      ]
+    },
+    {
+      "logo": "logos/7-naos.png",
+      "names": [
+        "7 NAOS"
+      ]
+    },
+    {
+      "logo": "logos/7-rare-atom.png",
+      "names": [
+        "7 Rare Atom"
+      ]
+    },
+    {
+      "logo": "logos/7-st-clair-saints.png",
+      "names": [
+        "7 St. Clair Saints"
+      ]
+    },
+    {
+      "logo": "logos/7-stallions.png",
+      "names": [
+        "7 Stallions Esports"
+      ]
+    },
+    {
+      "logo": "logos/7-warning.png",
+      "names": [
+        "7 Warning!"
+      ]
+    },
+    {
+      "logo": "logos/8-australs.png",
+      "names": [
+        "8 Australs"
+      ]
+    },
+    {
+      "logo": "logos/8-baam.png",
+      "names": [
+        "8 BAAM Esports"
+      ]
+    },
+    {
+      "logo": "logos/8-care-mid.png",
+      "names": [
+        "8 Care Mid"
+      ]
+    },
+    {
+      "logo": "logos/8-eintracht-frankfurt.png",
+      "names": [
+        "8 Eintracht Frankfurt"
+      ]
+    },
+    {
+      "logo": "logos/8-fancy-united.png",
+      "names": [
+        "8 Fancy United Esports"
+      ]
+    },
+    {
+      "logo": "logos/8-farmakas.png",
+      "names": [
+        "8 Farmakas"
+      ]
+    },
+    {
+      "logo": "logos/8-giantx.png",
+      "names": [
+        "8 GIANTX GC"
+      ]
+    },
+    {
+      "logo": "logos/8-leviatan.png",
+      "names": [
+        "8 LEVIATÁN"
+      ]
+    },
+    {
+      "logo": "logos/8-loud.png",
+      "names": [
+        "8 LOUD"
+      ]
+    },
+    {
+      "logo": "logos/8-onside.png",
+      "names": [
+        "8 ONSIDE GAMING"
+      ]
+    },
+    {
+      "logo": "logos/8-qt-dig.png",
+      "names": [
+        "8 QT DIG∞"
+      ]
+    },
+    {
+      "logo": "logos/8-san-jose-state-university.png",
+      "names": [
+        "8 San Jose State University"
+      ]
+    },
+    {
+      "logo": "logos/8-tyloo.png",
+      "names": [
+        "8 TYLOO"
+      ]
+    },
+    {
+      "logo": "logos/9-blater.png",
+      "names": [
+        "9 Blater"
+      ]
+    },
+    {
+      "logo": "logos/9-chosen-clique.png",
+      "names": [
+        "9 Chosen Clique Gaming"
+      ]
+    },
+    {
+      "logo": "logos/9-cloud9.png",
+      "names": [
+        "9 Cloud9"
+      ]
+    },
+    {
+      "logo": "logos/9-elevate-academy.png",
+      "names": [
+        "9 ELEVATE Academy"
+      ]
+    },
+    {
+      "logo": "logos/9-elso7ba.png",
+      "names": [
+        "9 Elso7ba"
+      ]
+    },
+    {
+      "logo": "logos/9-karmine-corp.png",
+      "names": [
+        "9 Karmine Corp",
+        "9 Karmine Corp GC"
+      ]
+    },
+    {
+      "logo": "logos/9-nkt.png",
+      "names": [
+        "9 Team NKT"
+      ]
+    },
+    {
+      "logo": "logos/9-peace-and-love.png",
+      "names": [
+        "9 Peace And Love"
+      ]
+    },
+    {
+      "logo": "logos/9-scarz.png",
+      "names": [
+        "9 SCARZ"
+      ]
+    },
+    {
+      "logo": "logos/9-six-karma-b.png",
+      "names": [
+        "9 Six Karma B"
+      ]
+    },
+    {
+      "logo": "logos/9-solovinos.png",
+      "names": [
+        "9 Solovinos"
+      ]
+    },
+    {
+      "logo": "logos/9-uc-irvine.png",
+      "names": [
+        "9 UC Irvine"
+      ]
+    },
+    {
+      "logo": "logos/9z.png",
+      "names": [
+        "9z Team"
+      ]
+    },
+    {
+      "logo": "logos/abbas-and-friends.png",
+      "names": [
+        "Abbas and Friends"
+      ]
+    },
+    {
+      "logo": "logos/akave.png",
+      "names": [
+        "Akave Esports GC"
+      ]
+    },
+    {
+      "logo": "logos/all-gamers.png",
+      "names": [
+        "All Gamers"
+      ]
+    },
+    {
+      "logo": "logos/alqadsiah.png",
+      "names": [
+        "AlQadsiah Esports"
+      ]
+    },
+    {
+      "logo": "logos/alt-f4.png",
+      "names": [
+        "ALT F4"
+      ]
+    },
+    {
+      "logo": "logos/australs.png",
+      "names": [
+        "Australs"
+      ]
+    },
+    {
+      "logo": "logos/baam.png",
+      "names": [
+        "BAAM Esports"
+      ]
+    },
+    {
+      "logo": "logos/baiters.png",
+      "names": [
+        "Baiters"
+      ]
+    },
+    {
+      "logo": "logos/bbl.png",
+      "names": [
+        "BBL Esports"
+      ]
+    },
+    {
+      "logo": "logos/bbl-pcific.png",
+      "names": [
+        "BBL PCIFIC"
+      ]
+    },
+    {
+      "logo": "logos/beyond-stratos.png",
+      "names": [
+        "Beyond Stratos Gaming"
+      ]
+    },
+    {
+      "logo": "logos/bigetron-arctic.png",
+      "names": [
+        "Bigetron Arctic"
+      ]
+    },
+    {
+      "logo": "logos/bilibili.png",
+      "names": [
+        "Bilibili Gaming"
+      ]
+    },
+    {
+      "logo": "logos/binus-x-widyatama.png",
+      "names": [
+        "Binus x Widyatama"
+      ]
+    },
+    {
+      "logo": "logos/blater.png",
+      "names": [
+        "Blater"
+      ]
+    },
+    {
+      "logo": "logos/blue-bees-esp.png",
+      "names": [
+        "BLUE BEES.ESP"
+      ]
+    },
+    {
+      "logo": "logos/bobo.png",
+      "names": [
+        "BOBO"
+      ]
+    },
+    {
+      "logo": "logos/boom.png",
+      "names": [
+        "BOOM Esports"
+      ]
+    },
+    {
+      "logo": "logos/box-of-rocketz.png",
+      "names": [
+        "BOX OF ROCKETZ"
+      ]
+    },
+    {
+      "logo": "logos/burger.png",
+      "names": [
+        "Team Burger"
+      ]
+    },
+    {
+      "logo": "logos/care-mid.png",
+      "names": [
+        "Care Mid"
+      ]
+    },
+    {
+      "logo": "logos/cgn.png",
+      "names": [
+        "CGN Esports"
+      ]
+    },
+    {
+      "logo": "logos/chivas.png",
+      "names": [
+        "Chivas Esports"
+      ]
+    },
+    {
+      "logo": "logos/chosen-clique.png",
+      "names": [
+        "Chosen Clique Gaming"
+      ]
+    },
+    {
+      "logo": "logos/citrus-e-sports.png",
+      "names": [
+        "Citrus e-sports"
+      ]
+    },
+    {
+      "logo": "logos/cloud9.png",
+      "names": [
+        "Cloud9"
+      ]
+    },
+    {
+      "logo": "logos/cnj.png",
+      "names": [
+        "CNJ Esports"
+      ]
+    },
+    {
+      "logo": "logos/contra.png",
+      "names": [
+        "Contra"
+      ]
+    },
+    {
+      "logo": "logos/corinthians.png",
+      "names": [
+        "Corinthians Esports"
+      ]
+    },
+    {
+      "logo": "logos/crest-zst.png",
+      "names": [
+        "CREST GAMING Zst"
+      ]
+    },
+    {
+      "logo": "logos/csuf-orange.png",
+      "names": [
+        "CSUF Orange"
+      ]
+    },
+    {
+      "logo": "logos/cubert-academy.png",
+      "names": [
+        "Cubert Academy"
+      ]
+    },
+    {
+      "logo": "logos/cumberland-phoenix.png",
+      "names": [
+        "Cumberland Phoenix"
+      ]
+    },
+    {
+      "logo": "logos/delight.png",
+      "names": [
+        "Delight"
+      ]
+    },
+    {
+      "logo": "logos/detonation-focusme.png",
+      "names": [
+        "DetonatioN FocusMe"
+      ]
+    },
+    {
+      "logo": "logos/dolphins.png",
+      "names": [
+        "Dolphins Gaming"
+      ]
+    },
+    {
+      "logo": "logos/dragon-ranger.png",
+      "names": [
+        "Dragon Ranger Gaming"
+      ]
+    },
+    {
+      "logo": "logos/drx.png",
+      "names": [
+        "DRX"
+      ]
+    },
+    {
+      "logo": "logos/e-king.png",
+      "names": [
+        "E-KING"
+      ]
+    },
+    {
+      "logo": "logos/e-xolos-lazer.png",
+      "names": [
+        "E-Xolos LAZER"
+      ]
+    },
+    {
+      "logo": "logos/edge.png",
+      "names": [
+        "EDGE"
+      ]
+    },
+    {
+      "logo": "logos/edward.png",
+      "names": [
+        "EDward Gaming"
+      ]
+    },
+    {
+      "logo": "logos/eintracht-frankfurt.png",
+      "names": [
+        "Eintracht Frankfurt"
+      ]
+    },
+    {
+      "logo": "logos/elevate.png",
+      "names": [
+        "Elevate"
+      ]
+    },
+    {
+      "logo": "logos/elevate-academy.png",
+      "names": [
+        "ELEVATE Academy"
+      ]
+    },
+    {
+      "logo": "logos/elso7ba.png",
+      "names": [
+        "Elso7ba"
+      ]
+    },
+    {
+      "logo": "logos/enterprise.png",
+      "names": [
+        "Enterprise Esports"
+      ]
+    },
+    {
+      "logo": "logos/envy.png",
+      "names": [
+        "ENVY"
+      ]
+    },
+    {
+      "logo": "logos/eternal-fire.png",
+      "names": [
+        "Eternal Fire"
+      ]
+    },
+    {
+      "logo": "logos/eternal-flame.png",
+      "names": [
+        "Eternal Flame"
+      ]
+    },
+    {
+      "logo": "logos/exotick.png",
+      "names": [
+        "EXOTICK ESPORTS"
+      ]
+    },
+    {
+      "logo": "logos/f4tality.png",
+      "names": [
+        "F4TALITY"
+      ]
+    },
+    {
+      "logo": "logos/falcons-vega.png",
+      "names": [
+        "Team Falcons Vega"
+      ]
+    },
+    {
+      "logo": "logos/fancy-united.png",
+      "names": [
+        "Fancy United Esports"
+      ]
+    },
+    {
+      "logo": "logos/farmakas.png",
+      "names": [
+        "Farmakas"
+      ]
+    },
+    {
+      "logo": "logos/fearx.png",
+      "names": [
+        "FEARX"
+      ]
+    },
+    {
+      "logo": "logos/fennel.png",
+      "names": [
+        "FENNEL"
+      ]
+    },
+    {
+      "logo": "logos/fisher-navy.png",
+      "names": [
+        "Fisher Navy"
+      ]
+    },
+    {
+      "logo": "logos/fnatic.png",
+      "names": [
+        "FNATIC"
+      ]
+    },
+    {
+      "logo": "logos/fraggerz.png",
+      "names": [
+        "Fraggerz"
+      ]
+    },
+    {
+      "logo": "logos/frozen-3.png",
+      "names": [
+        "Frozen 3"
+      ]
+    },
+    {
+      "logo": "logos/fuego.png",
+      "names": [
+        "FUEGO"
+      ]
+    },
+    {
+      "logo": "logos/full-house.png",
+      "names": [
+        "Full House"
+      ]
+    },
+    {
+      "logo": "logos/full-sense.png",
+      "names": [
+        "FULL SENSE"
+      ]
+    },
+    {
+      "logo": "logos/funplus-phoenix.png",
+      "names": [
+        "FunPlus Phoenix"
+      ]
+    },
+    {
+      "logo": "logos/fusion.png",
+      "names": [
+        "FUSION"
+      ]
+    },
+    {
+      "logo": "logos/g2-esports.png",
+      "names": [
+        "G2 Esports"
+      ]
+    },
+    {
+      "logo": "logos/g2-gozen.png",
+      "names": [
+        "G2 Gozen"
+      ]
+    },
+    {
+      "logo": "logos/gamax.png",
+      "names": [
+        "Gamax Esports"
+      ]
+    },
+    {
+      "logo": "logos/gen-g.png",
+      "names": [
+        "Gen.G"
+      ]
+    },
+    {
+      "logo": "logos/giantx.png",
+      "names": [
+        "GIANTX GC"
+      ]
+    },
+    {
+      "logo": "logos/gng.png",
+      "names": [
+        "GnG Esports"
+      ]
+    },
+    {
+      "logo": "logos/heretics.png",
+      "names": [
+        "Team Heretics"
+      ]
+    },
+    {
+      "logo": "logos/inside.png",
+      "names": [
+        "inside"
+      ]
+    },
+    {
+      "logo": "logos/kaos-latin-gamers.png",
+      "names": [
+        "Kaos Latin Gamers"
+      ]
+    },
+    {
+      "logo": "logos/karmine-corp.png",
+      "names": [
+        "Karmine Corp",
+        "Karmine Corp GC"
+      ]
+    },
+    {
+      "logo": "logos/keepbest.png",
+      "names": [
+        "KeepBest Gaming"
+      ]
+    },
+    {
+      "logo": "logos/koi-fenix.png",
+      "names": [
+        "KOI Fénix"
+      ]
+    },
+    {
+      "logo": "logos/kru.png",
+      "names": [
+        "KRÜ Esports"
+      ]
+    },
+    {
+      "logo": "logos/kru-blaze.png",
+      "names": [
+        "KRÜ BLAZE"
+      ]
+    },
+    {
+      "logo": "logos/leviatan.png",
+      "names": [
+        "LEVIATÁN"
+      ]
+    },
+    {
+      "logo": "logos/leviatan-academy.png",
+      "names": [
+        "LEVIATÁN Academy"
+      ]
+    },
+    {
+      "logo": "logos/liquid.png",
+      "names": [
+        "Team Liquid"
+      ]
+    },
+    {
+      "logo": "logos/liquid-academy.png",
+      "names": [
+        "Team Liquid Academy"
+      ]
+    },
+    {
+      "logo": "logos/liquid-brazil.png",
+      "names": [
+        "Team Liquid Brazil"
+      ]
+    },
+    {
+      "logo": "logos/lit-penguin.png",
+      "names": [
+        "LIT Penguin"
+      ]
+    },
+    {
+      "logo": "logos/los-grandes.png",
+      "names": [
+        "Los Grandes"
+      ]
+    },
+    {
+      "logo": "logos/loud.png",
+      "names": [
+        "LOUD"
+      ]
+    },
+    {
+      "logo": "logos/mad-army.png",
+      "names": [
+        "MAD Army"
+      ]
+    },
+    {
+      "logo": "logos/manga.png",
+      "names": [
+        "manga"
+      ]
+    },
+    {
+      "logo": "logos/marlon-n-friends.png",
+      "names": [
+        "Marlon N Friends"
+      ]
+    },
+    {
+      "logo": "logos/maryville-university.png",
+      "names": [
+        "Maryville University"
+      ]
+    },
+    {
+      "logo": "logos/mibr.png",
+      "names": [
+        "MIBR",
+        "MIBR GC"
+      ]
+    },
+    {
+      "logo": "logos/mixpe.png",
+      "names": [
+        "MixPe"
+      ]
+    },
+    {
+      "logo": "logos/motiv.png",
+      "names": [
+        "Motiv Esports"
+      ]
+    },
+    {
+      "logo": "logos/mouz.png",
+      "names": [
+        "MOUZ"
+      ]
+    },
+    {
+      "logo": "logos/murash.png",
+      "names": [
+        "Murash Gaming"
+      ]
+    },
+    {
+      "logo": "logos/naos.png",
+      "names": [
+        "NAOS"
+      ]
+    },
+    {
+      "logo": "logos/natus-vincere.png",
+      "names": [
+        "Natus Vincere"
+      ]
+    },
+    {
+      "logo": "logos/nightblood.png",
+      "names": [
+        "Nightblood Gaming"
+      ]
+    },
+    {
+      "logo": "logos/ninetails.png",
+      "names": [
+        "Ninetails"
+      ]
+    },
+    {
+      "logo": "logos/nkt.png",
+      "names": [
+        "Team NKT"
+      ]
+    },
+    {
+      "logo": "logos/nobles.png",
+      "names": [
+        "NOBLES"
+      ]
+    },
+    {
+      "logo": "logos/noez-foxx.png",
+      "names": [
+        "NOEZ FOXX"
+      ]
+    },
+    {
+      "logo": "logos/nongshim-redforce.png",
+      "names": [
+        "Nongshim RedForce"
+      ]
+    },
+    {
+      "logo": "logos/northwood-university.png",
+      "names": [
+        "Northwood University"
+      ]
+    },
+    {
+      "logo": "logos/nova.png",
+      "names": [
+        "Nova Esports"
+      ]
+    },
+    {
+      "logo": "logos/nrg.png",
+      "names": [
+        "NRG"
+      ]
+    },
+    {
+      "logo": "logos/nuclear.png",
+      "names": [
+        "Nuclear"
+      ]
+    },
+    {
+      "logo": "logos/nx.png",
+      "names": [
+        "NX"
+      ]
+    },
+    {
+      "logo": "logos/oasis.png",
+      "names": [
+        "Oasis Gaming"
+      ]
+    },
+    {
+      "logo": "logos/od.png",
+      "names": [
+        "OD Gaming"
+      ]
+    },
+    {
+      "logo": "logos/og.png",
+      "names": [
+        "OG"
+      ]
+    },
+    {
+      "logo": "logos/old-school-kr3w.png",
+      "names": [
+        "Old School Kr3w"
+      ]
+    },
+    {
+      "logo": "logos/oly.png",
+      "names": [
+        "OLY"
+      ]
+    },
+    {
+      "logo": "logos/onside.png",
+      "names": [
+        "ONSIDE GAMING"
+      ]
+    },
+    {
+      "logo": "logos/orgless-2-0.png",
+      "names": [
+        "Orgless 2.0"
+      ]
+    },
+    {
+      "logo": "logos/oxen.png",
+      "names": [
+        "OXEN"
+      ]
+    },
+    {
+      "logo": "logos/oxen-bull-beats.png",
+      "names": [
+        "OXEN BULL BEATS"
+      ]
+    },
+    {
+      "logo": "logos/paper-rex.png",
+      "names": [
+        "Paper Rex"
+      ]
+    },
+    {
+      "logo": "logos/paysandu.png",
+      "names": [
+        "Paysandu Esports"
+      ]
+    },
+    {
+      "logo": "logos/peace-and-love.png",
+      "names": [
+        "Peace And Love"
+      ]
+    },
+    {
+      "logo": "logos/qor.png",
+      "names": [
+        "QoR"
+      ]
+    },
+    {
+      "logo": "logos/qt-dig.png",
+      "names": [
+        "QT DIG∞"
+      ]
+    },
+    {
+      "logo": "logos/raad.png",
+      "names": [
+        "Team RA'AD"
+      ]
+    },
+    {
+      "logo": "logos/rabbit-gang.png",
+      "names": [
+        "rabbit gang"
+      ]
+    },
+    {
+      "logo": "logos/rare-atom.png",
+      "names": [
+        "Rare Atom"
+      ]
+    },
+    {
+      "logo": "logos/red-canids.png",
+      "names": [
+        "RED Canids"
+      ]
+    },
+    {
+      "logo": "logos/reject.png",
+      "names": [
+        "REJECT"
+      ]
+    },
+    {
+      "logo": "logos/relay.png",
+      "names": [
+        "Relay Team"
+      ]
+    },
+    {
+      "logo": "logos/rex-regum-qeon.png",
+      "names": [
+        "Rex Regum Qeon"
+      ]
+    },
+    {
+      "logo": "logos/riddle-order.png",
+      "names": [
+        "RIDDLE ORDER"
+      ]
+    },
+    {
+      "logo": "logos/rrq-academy.png",
+      "names": [
+        "RRQ Academy"
+      ]
+    },
+    {
+      "logo": "logos/sadhub.png",
+      "names": [
+        "SadHub Esports"
+      ]
+    },
+    {
+      "logo": "logos/san-jose-state-university.png",
+      "names": [
+        "San Jose State University"
+      ]
+    },
+    {
+      "logo": "logos/scarz.png",
+      "names": [
+        "SCARZ"
+      ]
+    },
+    {
+      "logo": "logos/seibi.png",
+      "names": [
+        "Team SEIBI"
+      ]
+    },
+    {
+      "logo": "logos/sentinels.png",
+      "names": [
+        "Sentinels"
+      ]
+    },
+    {
+      "logo": "logos/shinden.png",
+      "names": [
+        "ShindeN"
+      ]
+    },
+    {
+      "logo": "logos/shopify-rebellion-gold.png",
+      "names": [
+        "Shopify Rebellion Gold"
+      ]
+    },
+    {
+      "logo": "logos/six-karma.png",
+      "names": [
+        "Six Karma"
+      ]
+    },
+    {
+      "logo": "logos/six-karma-b.png",
+      "names": [
+        "Six Karma B"
+      ]
+    },
+    {
+      "logo": "logos/sk-nebula.png",
+      "names": [
+        "SK Nebula"
+      ]
+    },
+    {
+      "logo": "logos/slt-seongnam.png",
+      "names": [
+        "SLT Seongnam"
+      ]
+    },
+    {
+      "logo": "logos/solar-anthem.png",
+      "names": [
+        "SOLAR ANTHEM"
+      ]
+    },
+    {
+      "logo": "logos/solid.png",
+      "names": [
+        "Team Solid"
+      ]
+    },
+    {
+      "logo": "logos/solovinos.png",
+      "names": [
+        "Solovinos"
+      ]
+    },
+    {
+      "logo": "logos/spx-crew.png",
+      "names": [
+        "Spx Crew"
+      ]
+    },
+    {
+      "logo": "logos/st-clair-saints.png",
+      "names": [
+        "St. Clair Saints"
+      ]
+    },
+    {
+      "logo": "logos/stallions.png",
+      "names": [
+        "Stallions Esports"
+      ]
+    },
+    {
+      "logo": "logos/stellae.png",
+      "names": [
+        "Stellae Gaming"
+      ]
+    },
+    {
+      "logo": "logos/t1.png",
+      "names": [
+        "T1"
+      ]
+    },
+    {
+      "logo": "logos/t1-academy.png",
+      "names": [
+        "T1 Academy"
+      ]
+    },
+    {
+      "logo": "logos/talon.png",
+      "names": [
+        "TALON"
+      ]
+    },
+    {
+      "logo": "logos/tamu-maroon.png",
+      "names": [
+        "TAMU Maroon"
+      ]
+    },
+    {
+      "logo": "logos/the-ultimates.png",
+      "names": [
+        "The Ultimates"
+      ]
+    },
+    {
+      "logo": "logos/trace.png",
+      "names": [
+        "Trace Esports"
+      ]
+    },
+    {
+      "logo": "logos/tsm.png",
+      "names": [
+        "TSM"
+      ]
+    },
+    {
+      "logo": "logos/twisted-minds.png",
+      "names": [
+        "Twisted Minds"
+      ]
+    },
+    {
+      "logo": "logos/twisted-minds-orchid.png",
+      "names": [
+        "Twisted Minds Orchid"
+      ]
+    },
+    {
+      "logo": "logos/tyloo.png",
+      "names": [
+        "TYLOO"
+      ]
+    },
+    {
+      "logo": "logos/uc-irvine.png",
+      "names": [
+        "UC Irvine"
+      ]
+    },
+    {
+      "logo": "logos/ufoxskalle.png",
+      "names": [
+        "UFOXSkalle"
+      ]
+    },
+    {
+      "logo": "logos/ulf.png",
+      "names": [
+        "ULF Esports"
+      ]
+    },
+    {
+      "logo": "logos/university-of-central-florida.png",
+      "names": [
+        "University of Central Florida"
+      ]
+    },
+    {
+      "logo": "logos/ust.png",
+      "names": [
+        "UST Esports"
+      ]
+    },
+    {
+      "logo": "logos/uwaterloo-gold.png",
+      "names": [
+        "UWaterloo Gold"
+      ]
+    },
+    {
+      "logo": "logos/velocity.png",
+      "names": [
+        "Velocity Gaming"
+      ]
+    },
+    {
+      "logo": "logos/vina-side-hustle.png",
+      "names": [
+        "VINA SIDE HUSTLE"
+      ]
+    },
+    {
+      "logo": "logos/wadadaa.png",
+      "names": [
+        "Wadadaa"
+      ]
+    },
+    {
+      "logo": "logos/warning.png",
+      "names": [
+        "Warning!"
+      ]
+    },
+    {
+      "logo": "logos/weibo.png",
+      "names": [
+        "Weibo Gaming"
+      ]
+    },
+    {
+      "logo": "logos/west-virginia-university.png",
+      "names": [
+        "West Virginia University"
+      ]
+    },
+    {
+      "logo": "logos/winthrop-university.png",
+      "names": [
+        "Winthrop University"
+      ]
+    },
+    {
+      "logo": "logos/wolves.png",
+      "names": [
+        "Wolves Esports"
+      ]
+    },
+    {
+      "logo": "logos/xi-lai.png",
+      "names": [
+        "Xi Lai Gaming"
+      ]
+    },
+    {
+      "logo": "logos/xipto.png",
+      "names": [
+        "Xipto Esports",
+        "Xipto Esports GC"
+      ]
+    },
+    {
+      "logo": "logos/xyz.png",
+      "names": [
+        "xyz"
+      ]
+    },
+    {
+      "logo": "logos/yfp-pigeons.png",
+      "names": [
+        "YFP Pigeons"
+      ]
+    },
+    {
+      "logo": "logos/ync.png",
+      "names": [
+        "YnC"
+      ]
+    },
+    {
+      "logo": "logos/zeta-division.png",
+      "names": [
+        "ZETA DIVISION"
+      ]
+    }
+  ],
+  "regions": {
+    "EU": [
+      {
+        "slug": "1-fnatic",
+        "names": [
+          "1 FNATIC"
+        ],
+        "logo": "logos/1-fnatic.png"
+      },
+      {
+        "slug": "fnatic",
+        "names": [
+          "FNATIC"
+        ],
+        "logo": "logos/fnatic.png"
+      },
+      {
+        "slug": "2-heretics",
+        "names": [
+          "2 Team Heretics"
+        ],
+        "logo": "logos/2-heretics.png"
+      },
+      {
+        "slug": "heretics",
+        "names": [
+          "Team Heretics"
+        ],
+        "logo": "logos/heretics.png"
+      },
+      {
+        "slug": "3-mouz",
+        "names": [
+          "3 MOUZ"
+        ],
+        "logo": "logos/3-mouz.png"
+      },
+      {
+        "slug": "mouz",
+        "names": [
+          "MOUZ"
+        ],
+        "logo": "logos/mouz.png"
+      },
+      {
+        "slug": "4-bbl-pcific",
+        "names": [
+          "4 BBL PCIFIC"
+        ],
+        "logo": "logos/4-bbl-pcific.png"
+      },
+      {
+        "slug": "bbl-pcific",
+        "names": [
+          "BBL PCIFIC"
+        ],
+        "logo": "logos/bbl-pcific.png"
+      },
+      {
+        "slug": "5-enterprise",
+        "names": [
+          "5 Enterprise Esports"
+        ],
+        "logo": "logos/5-enterprise.png"
+      },
+      {
+        "slug": "enterprise",
+        "names": [
+          "Enterprise Esports"
+        ],
+        "logo": "logos/enterprise.png"
+      },
+      {
+        "slug": "6-bbl",
+        "names": [
+          "6 BBL Esports"
+        ],
+        "logo": "logos/6-bbl.png"
+      },
+      {
+        "slug": "bbl",
+        "names": [
+          "BBL Esports"
+        ],
+        "logo": "logos/bbl.png"
+      },
+      {
+        "slug": "7-liquid",
+        "names": [
+          "7 Team Liquid"
+        ],
+        "logo": "logos/7-liquid.png"
+      },
+      {
+        "slug": "liquid",
+        "names": [
+          "Team Liquid"
+        ],
+        "logo": "logos/liquid.png"
+      },
+      {
+        "slug": "8-eintracht-frankfurt",
+        "names": [
+          "8 Eintracht Frankfurt"
+        ],
+        "logo": "logos/8-eintracht-frankfurt.png"
+      },
+      {
+        "slug": "eintracht-frankfurt",
+        "names": [
+          "Eintracht Frankfurt"
+        ],
+        "logo": "logos/eintracht-frankfurt.png"
+      },
+      {
+        "slug": "9-karmine-corp",
+        "names": [
+          "9 Karmine Corp"
+        ],
+        "logo": "logos/9-karmine-corp.png"
+      },
+      {
+        "slug": "karmine-corp",
+        "names": [
+          "Karmine Corp"
+        ],
+        "logo": "logos/karmine-corp.png"
+      },
+      {
+        "slug": "10-koi-fenix",
+        "names": [
+          "10 KOI Fénix"
+        ],
+        "logo": "logos/10-koi-fenix.png"
+      },
+      {
+        "slug": "koi-fenix",
+        "names": [
+          "KOI Fénix"
+        ],
+        "logo": "logos/koi-fenix.png"
+      },
+      {
+        "slug": "11-ulf",
+        "names": [
+          "11 ULF Esports"
+        ],
+        "logo": "logos/11-ulf.png"
+      },
+      {
+        "slug": "ulf",
+        "names": [
+          "ULF Esports"
+        ],
+        "logo": "logos/ulf.png"
+      },
+      {
+        "slug": "12-cgn",
+        "names": [
+          "12 CGN Esports"
+        ],
+        "logo": "logos/12-cgn.png"
+      },
+      {
+        "slug": "cgn",
+        "names": [
+          "CGN Esports"
+        ],
+        "logo": "logos/cgn.png"
+      },
+      {
+        "slug": "13-liquid-academy",
+        "names": [
+          "13 Team Liquid Academy"
+        ],
+        "logo": "logos/13-liquid-academy.png"
+      },
+      {
+        "slug": "liquid-academy",
+        "names": [
+          "Team Liquid Academy"
+        ],
+        "logo": "logos/liquid-academy.png"
+      },
+      {
+        "slug": "14-eternal-fire",
+        "names": [
+          "14 Eternal Fire"
+        ],
+        "logo": "logos/14-eternal-fire.png"
+      },
+      {
+        "slug": "eternal-fire",
+        "names": [
+          "Eternal Fire"
+        ],
+        "logo": "logos/eternal-fire.png"
+      },
+      {
+        "slug": "15-natus-vincere",
+        "names": [
+          "15 Natus Vincere"
+        ],
+        "logo": "logos/15-natus-vincere.png"
+      },
+      {
+        "slug": "natus-vincere",
+        "names": [
+          "Natus Vincere"
+        ],
+        "logo": "logos/natus-vincere.png"
+      }
+    ],
+    "NA": [
+      {
+        "slug": "1-sentinels",
+        "names": [
+          "1 Sentinels"
+        ],
+        "logo": "logos/1-sentinels.png"
+      },
+      {
+        "slug": "sentinels",
+        "names": [
+          "Sentinels"
+        ],
+        "logo": "logos/sentinels.png"
+      },
+      {
+        "slug": "2-g2",
+        "names": [
+          "2 G2 Esports"
+        ],
+        "logo": "logos/2-g2.png"
+      },
+      {
+        "slug": "g2-esports",
+        "names": [
+          "G2 Esports"
+        ],
+        "logo": "logos/g2-esports.png"
+      },
+      {
+        "slug": "3-nrg",
+        "names": [
+          "3 NRG"
+        ],
+        "logo": "logos/3-nrg.png"
+      },
+      {
+        "slug": "nrg",
+        "names": [
+          "NRG"
+        ],
+        "logo": "logos/nrg.png"
+      },
+      {
+        "slug": "4-envy",
+        "names": [
+          "4 ENVY"
+        ],
+        "logo": "logos/4-envy.png"
+      },
+      {
+        "slug": "envy",
+        "names": [
+          "ENVY"
+        ],
+        "logo": "logos/envy.png"
+      },
+      {
+        "slug": "5-qor",
+        "names": [
+          "5 QoR"
+        ],
+        "logo": "logos/5-qor.png"
+      },
+      {
+        "slug": "qor",
+        "names": [
+          "QoR"
+        ],
+        "logo": "logos/qor.png"
+      },
+      {
+        "slug": "6-100-thieves",
+        "names": [
+          "6 100 Thieves"
+        ],
+        "logo": "logos/6-100-thieves.png"
+      },
+      {
+        "slug": "100-thieves",
+        "names": [
+          "100 Thieves"
+        ],
+        "logo": "logos/100-thieves.png"
+      },
+      {
+        "slug": "7-cubert-academy",
+        "names": [
+          "7 Cubert Academy"
+        ],
+        "logo": "logos/7-cubert-academy.png"
+      },
+      {
+        "slug": "cubert-academy",
+        "names": [
+          "Cubert Academy"
+        ],
+        "logo": "logos/cubert-academy.png"
+      },
+      {
+        "slug": "8-leviatan",
+        "names": [
+          "8 LEVIATÁN"
+        ],
+        "logo": "logos/8-leviatan.png"
+      },
+      {
+        "slug": "leviatan",
+        "names": [
+          "LEVIATÁN"
+        ],
+        "logo": "logos/leviatan.png"
+      },
+      {
+        "slug": "9-cloud9",
+        "names": [
+          "9 Cloud9"
+        ],
+        "logo": "logos/9-cloud9.png"
+      },
+      {
+        "slug": "cloud9",
+        "names": [
+          "Cloud9"
+        ],
+        "logo": "logos/cloud9.png"
+      },
+      {
+        "slug": "10-maryville-university",
+        "names": [
+          "10 Maryville University"
+        ],
+        "logo": "logos/10-maryville-university.png"
+      },
+      {
+        "slug": "maryville-university",
+        "names": [
+          "Maryville University"
+        ],
+        "logo": "logos/maryville-university.png"
+      },
+      {
+        "slug": "11-winthrop-university",
+        "names": [
+          "11 Winthrop University"
+        ],
+        "logo": "logos/11-winthrop-university.png"
+      },
+      {
+        "slug": "winthrop-university",
+        "names": [
+          "Winthrop University"
+        ],
+        "logo": "logos/winthrop-university.png"
+      },
+      {
+        "slug": "12-tsm",
+        "names": [
+          "12 TSM"
+        ],
+        "logo": "logos/12-tsm.png"
+      },
+      {
+        "slug": "tsm",
+        "names": [
+          "TSM"
+        ],
+        "logo": "logos/tsm.png"
+      },
+      {
+        "slug": "13-yfp-pigeons",
+        "names": [
+          "13 YFP Pigeons"
+        ],
+        "logo": "logos/13-yfp-pigeons.png"
+      },
+      {
+        "slug": "yfp-pigeons",
+        "names": [
+          "YFP Pigeons"
+        ],
+        "logo": "logos/yfp-pigeons.png"
+      },
+      {
+        "slug": "14-nightblood",
+        "names": [
+          "14 Nightblood Gaming"
+        ],
+        "logo": "logos/14-nightblood.png"
+      },
+      {
+        "slug": "nightblood",
+        "names": [
+          "Nightblood Gaming"
+        ],
+        "logo": "logos/nightblood.png"
+      },
+      {
+        "slug": "15-box-of-rocketz",
+        "names": [
+          "15 BOX OF ROCKETZ"
+        ],
+        "logo": "logos/15-box-of-rocketz.png"
+      },
+      {
+        "slug": "box-of-rocketz",
+        "names": [
+          "BOX OF ROCKETZ"
+        ],
+        "logo": "logos/box-of-rocketz.png"
+      }
+    ],
+    "BR": [
+      {
+        "slug": "1-stellae",
+        "names": [
+          "1 Stellae Gaming"
+        ],
+        "logo": "logos/1-stellae.png"
+      },
+      {
+        "slug": "stellae",
+        "names": [
+          "Stellae Gaming"
+        ],
+        "logo": "logos/stellae.png"
+      },
+      {
+        "slug": "2-mibr",
+        "names": [
+          "2 MIBR"
+        ],
+        "logo": "logos/2-mibr.png"
+      },
+      {
+        "slug": "mibr",
+        "names": [
+          "MIBR"
+        ],
+        "logo": "logos/mibr.png"
+      },
+      {
+        "slug": "3-solid",
+        "names": [
+          "3 Team Solid"
+        ],
+        "logo": "logos/3-solid.png"
+      },
+      {
+        "slug": "solid",
+        "names": [
+          "Team Solid"
+        ],
+        "logo": "logos/solid.png"
+      },
+      {
+        "slug": "4-red-canids",
+        "names": [
+          "4 RED Canids"
+        ],
+        "logo": "logos/4-red-canids.png"
+      },
+      {
+        "slug": "red-canids",
+        "names": [
+          "RED Canids"
+        ],
+        "logo": "logos/red-canids.png"
+      },
+      {
+        "slug": "5-corinthians",
+        "names": [
+          "5 Corinthians Esports"
+        ],
+        "logo": "logos/5-corinthians.png"
+      },
+      {
+        "slug": "corinthians",
+        "names": [
+          "Corinthians Esports"
+        ],
+        "logo": "logos/corinthians.png"
+      },
+      {
+        "slug": "6-los-grandes",
+        "names": [
+          "6 Los Grandes"
+        ],
+        "logo": "logos/6-los-grandes.png"
+      },
+      {
+        "slug": "los-grandes",
+        "names": [
+          "Los Grandes"
+        ],
+        "logo": "logos/los-grandes.png"
+      },
+      {
+        "slug": "7-2game-academy",
+        "names": [
+          "7 2Game Academy"
+        ],
+        "logo": "logos/7-2game-academy.png"
+      },
+      {
+        "slug": "2game-academy",
+        "names": [
+          "2Game Academy"
+        ],
+        "logo": "logos/2game-academy.png"
+      },
+      {
+        "slug": "8-loud",
+        "names": [
+          "8 LOUD"
+        ],
+        "logo": "logos/8-loud.png"
+      },
+      {
+        "slug": "loud",
+        "names": [
+          "LOUD"
+        ],
+        "logo": "logos/loud.png"
+      },
+      {
+        "slug": "9-elevate-academy",
+        "names": [
+          "9 ELEVATE Academy"
+        ],
+        "logo": "logos/9-elevate-academy.png"
+      },
+      {
+        "slug": "elevate-academy",
+        "names": [
+          "ELEVATE Academy"
+        ],
+        "logo": "logos/elevate-academy.png"
+      },
+      {
+        "slug": "10-2game",
+        "names": [
+          "10 2Game Esports"
+        ],
+        "logo": "logos/10-2game.png"
+      },
+      {
+        "slug": "2game",
+        "names": [
+          "2Game Esports"
+        ],
+        "logo": "logos/2game.png"
+      },
+      {
+        "slug": "11-f4tality",
+        "names": [
+          "11 F4TALITY"
+        ],
+        "logo": "logos/11-f4tality.png"
+      },
+      {
+        "slug": "f4tality",
+        "names": [
+          "F4TALITY"
+        ],
+        "logo": "logos/f4tality.png"
+      },
+      {
+        "slug": "12-mibr",
+        "names": [
+          "12 MIBR GC"
+        ],
+        "logo": "logos/12-mibr.png"
+      },
+      {
+        "slug": "13-paysandu",
+        "names": [
+          "13 Paysandu Esports"
+        ],
+        "logo": "logos/13-paysandu.png"
+      },
+      {
+        "slug": "paysandu",
+        "names": [
+          "Paysandu Esports"
+        ],
+        "logo": "logos/paysandu.png"
+      },
+      {
+        "slug": "14-baiters",
+        "names": [
+          "14 Baiters"
+        ],
+        "logo": "logos/14-baiters.png"
+      },
+      {
+        "slug": "baiters",
+        "names": [
+          "Baiters"
+        ],
+        "logo": "logos/baiters.png"
+      },
+      {
+        "slug": "15-liquid-brazil",
+        "names": [
+          "15 Team Liquid Brazil"
+        ],
+        "logo": "logos/15-liquid-brazil.png"
+      },
+      {
+        "slug": "liquid-brazil",
+        "names": [
+          "Team Liquid Brazil"
+        ],
+        "logo": "logos/liquid-brazil.png"
+      },
+      {
+        "slug": "16-batalhao-do-nono",
+        "names": [
+          "16 batalhao do nonô"
+        ],
+        "logo": "logos/16-batalhao-do-nono.png"
+      }
+    ],
+    "AP": [
+      {
+        "slug": "1-paper-rex",
+        "names": [
+          "1 Paper Rex"
+        ],
+        "logo": "logos/1-paper-rex.png"
+      },
+      {
+        "slug": "paper-rex",
+        "names": [
+          "Paper Rex"
+        ],
+        "logo": "logos/paper-rex.png"
+      },
+      {
+        "slug": "2-full-sense",
+        "names": [
+          "2 FULL SENSE"
+        ],
+        "logo": "logos/2-full-sense.png"
+      },
+      {
+        "slug": "full-sense",
+        "names": [
+          "FULL SENSE"
+        ],
+        "logo": "logos/full-sense.png"
+      },
+      {
+        "slug": "3-rex-regum-qeon",
+        "names": [
+          "3 Rex Regum Qeon"
+        ],
+        "logo": "logos/3-rex-regum-qeon.png"
+      },
+      {
+        "slug": "rex-regum-qeon",
+        "names": [
+          "Rex Regum Qeon"
+        ],
+        "logo": "logos/rex-regum-qeon.png"
+      },
+      {
+        "slug": "4-motiv",
+        "names": [
+          "4 Motiv Esports"
+        ],
+        "logo": "logos/4-motiv.png"
+      },
+      {
+        "slug": "motiv",
+        "names": [
+          "Motiv Esports"
+        ],
+        "logo": "logos/motiv.png"
+      },
+      {
+        "slug": "5-talon",
+        "names": [
+          "5 TALON"
+        ],
+        "logo": "logos/5-talon.png"
+      },
+      {
+        "slug": "talon",
+        "names": [
+          "TALON"
+        ],
+        "logo": "logos/talon.png"
+      },
+      {
+        "slug": "6-velocity",
+        "names": [
+          "6 Velocity Gaming"
+        ],
+        "logo": "logos/6-velocity.png"
+      },
+      {
+        "slug": "velocity",
+        "names": [
+          "Velocity Gaming"
+        ],
+        "logo": "logos/velocity.png"
+      },
+      {
+        "slug": "7-naos",
+        "names": [
+          "7 NAOS"
+        ],
+        "logo": "logos/7-naos.png"
+      },
+      {
+        "slug": "naos",
+        "names": [
+          "NAOS"
+        ],
+        "logo": "logos/naos.png"
+      },
+      {
+        "slug": "8-fancy-united",
+        "names": [
+          "8 Fancy United Esports"
+        ],
+        "logo": "logos/8-fancy-united.png"
+      },
+      {
+        "slug": "fancy-united",
+        "names": [
+          "Fancy United Esports"
+        ],
+        "logo": "logos/fancy-united.png"
+      },
+      {
+        "slug": "9-nkt",
+        "names": [
+          "9 Team NKT"
+        ],
+        "logo": "logos/9-nkt.png"
+      },
+      {
+        "slug": "nkt",
+        "names": [
+          "Team NKT"
+        ],
+        "logo": "logos/nkt.png"
+      },
+      {
+        "slug": "10-lit-penguin",
+        "names": [
+          "10 LIT Penguin"
+        ],
+        "logo": "logos/10-lit-penguin.png"
+      },
+      {
+        "slug": "lit-penguin",
+        "names": [
+          "LIT Penguin"
+        ],
+        "logo": "logos/lit-penguin.png"
+      },
+      {
+        "slug": "11-boom",
+        "names": [
+          "11 BOOM Esports"
+        ],
+        "logo": "logos/11-boom.png"
+      },
+      {
+        "slug": "boom",
+        "names": [
+          "BOOM Esports"
+        ],
+        "logo": "logos/boom.png"
+      },
+      {
+        "slug": "12-xipto",
+        "names": [
+          "12 Xipto Esports"
+        ],
+        "logo": "logos/12-xipto.png"
+      },
+      {
+        "slug": "xipto",
+        "names": [
+          "Xipto Esports"
+        ],
+        "logo": "logos/xipto.png"
+      },
+      {
+        "slug": "13-bigetron-arctic",
+        "names": [
+          "13 Bigetron Arctic"
+        ],
+        "logo": "logos/13-bigetron-arctic.png"
+      },
+      {
+        "slug": "bigetron-arctic",
+        "names": [
+          "Bigetron Arctic"
+        ],
+        "logo": "logos/bigetron-arctic.png"
+      },
+      {
+        "slug": "14-oasis",
+        "names": [
+          "14 Oasis Gaming"
+        ],
+        "logo": "logos/14-oasis.png"
+      },
+      {
+        "slug": "oasis",
+        "names": [
+          "Oasis Gaming"
+        ],
+        "logo": "logos/oasis.png"
+      },
+      {
+        "slug": "15-rrq-academy",
+        "names": [
+          "15 RRQ Academy"
+        ],
+        "logo": "logos/15-rrq-academy.png"
+      },
+      {
+        "slug": "rrq-academy",
+        "names": [
+          "RRQ Academy"
+        ],
+        "logo": "logos/rrq-academy.png"
+      }
+    ],
+    "KR": [
+      {
+        "slug": "1-gen-g",
+        "names": [
+          "1 Gen.G"
+        ],
+        "logo": "logos/1-gen-g.png"
+      },
+      {
+        "slug": "gen-g",
+        "names": [
+          "Gen.G"
+        ],
+        "logo": "logos/gen-g.png"
+      },
+      {
+        "slug": "2-t1",
+        "names": [
+          "2 T1"
+        ],
+        "logo": "logos/2-t1.png"
+      },
+      {
+        "slug": "t1",
+        "names": [
+          "T1"
+        ],
+        "logo": "logos/t1.png"
+      },
+      {
+        "slug": "3-drx",
+        "names": [
+          "3 DRX"
+        ],
+        "logo": "logos/3-drx.png"
+      },
+      {
+        "slug": "drx",
+        "names": [
+          "DRX"
+        ],
+        "logo": "logos/drx.png"
+      },
+      {
+        "slug": "4-nongshim-redforce",
+        "names": [
+          "4 Nongshim RedForce"
+        ],
+        "logo": "logos/4-nongshim-redforce.png"
+      },
+      {
+        "slug": "nongshim-redforce",
+        "names": [
+          "Nongshim RedForce"
+        ],
+        "logo": "logos/nongshim-redforce.png"
+      },
+      {
+        "slug": "5-t1-academy",
+        "names": [
+          "5 T1 Academy"
+        ],
+        "logo": "logos/5-t1-academy.png"
+      },
+      {
+        "slug": "t1-academy",
+        "names": [
+          "T1 Academy"
+        ],
+        "logo": "logos/t1-academy.png"
+      },
+      {
+        "slug": "6-slt-seongnam",
+        "names": [
+          "6 SLT Seongnam"
+        ],
+        "logo": "logos/6-slt-seongnam.png"
+      },
+      {
+        "slug": "slt-seongnam",
+        "names": [
+          "SLT Seongnam"
+        ],
+        "logo": "logos/slt-seongnam.png"
+      },
+      {
+        "slug": "7-fearx",
+        "names": [
+          "7 FEARX"
+        ],
+        "logo": "logos/7-fearx.png"
+      },
+      {
+        "slug": "fearx",
+        "names": [
+          "FEARX"
+        ],
+        "logo": "logos/fearx.png"
+      },
+      {
+        "slug": "8-onside",
+        "names": [
+          "8 ONSIDE GAMING"
+        ],
+        "logo": "logos/8-onside.png"
+      },
+      {
+        "slug": "onside",
+        "names": [
+          "ONSIDE GAMING"
+        ],
+        "logo": "logos/onside.png"
+      },
+      {
+        "slug": "9-blater",
+        "names": [
+          "9 Blater"
+        ],
+        "logo": "logos/9-blater.png"
+      },
+      {
+        "slug": "blater",
+        "names": [
+          "Blater"
+        ],
+        "logo": "logos/blater.png"
+      },
+      {
+        "slug": "10-cnj",
+        "names": [
+          "10 CNJ Esports"
+        ],
+        "logo": "logos/10-cnj.png"
+      },
+      {
+        "slug": "cnj",
+        "names": [
+          "CNJ Esports"
+        ],
+        "logo": "logos/cnj.png"
+      },
+      {
+        "slug": "11-oly",
+        "names": [
+          "11 OLY"
+        ],
+        "logo": "logos/11-oly.png"
+      },
+      {
+        "slug": "oly",
+        "names": [
+          "OLY"
+        ],
+        "logo": "logos/oly.png"
+      },
+      {
+        "slug": "12-frozen-3",
+        "names": [
+          "12 Frozen 3"
+        ],
+        "logo": "logos/12-frozen-3.png"
+      },
+      {
+        "slug": "frozen-3",
+        "names": [
+          "Frozen 3"
+        ],
+        "logo": "logos/frozen-3.png"
+      },
+      {
+        "slug": "13-beyond-stratos",
+        "names": [
+          "13 Beyond Stratos Gaming"
+        ],
+        "logo": "logos/13-beyond-stratos.png"
+      },
+      {
+        "slug": "beyond-stratos",
+        "names": [
+          "Beyond Stratos Gaming"
+        ],
+        "logo": "logos/beyond-stratos.png"
+      },
+      {
+        "slug": "14-nuclear",
+        "names": [
+          "14 Nuclear"
+        ],
+        "logo": "logos/14-nuclear.png"
+      },
+      {
+        "slug": "nuclear",
+        "names": [
+          "Nuclear"
+        ],
+        "logo": "logos/nuclear.png"
+      },
+      {
+        "slug": "15-ync",
+        "names": [
+          "15 YnC"
+        ],
+        "logo": "logos/15-ync.png"
+      },
+      {
+        "slug": "ync",
+        "names": [
+          "YnC"
+        ],
+        "logo": "logos/ync.png"
+      }
+    ],
+    "CN": [
+      {
+        "slug": "1-bilibili",
+        "names": [
+          "1 Bilibili Gaming"
+        ],
+        "logo": "logos/1-bilibili.png"
+      },
+      {
+        "slug": "bilibili",
+        "names": [
+          "Bilibili Gaming"
+        ],
+        "logo": "logos/bilibili.png"
+      },
+      {
+        "slug": "2-xi-lai",
+        "names": [
+          "2 Xi Lai Gaming"
+        ],
+        "logo": "logos/2-xi-lai.png"
+      },
+      {
+        "slug": "xi-lai",
+        "names": [
+          "Xi Lai Gaming"
+        ],
+        "logo": "logos/xi-lai.png"
+      },
+      {
+        "slug": "3-edward",
+        "names": [
+          "3 EDward Gaming"
+        ],
+        "logo": "logos/3-edward.png"
+      },
+      {
+        "slug": "edward",
+        "names": [
+          "EDward Gaming"
+        ],
+        "logo": "logos/edward.png"
+      },
+      {
+        "slug": "4-dragon-ranger",
+        "names": [
+          "4 Dragon Ranger Gaming"
+        ],
+        "logo": "logos/4-dragon-ranger.png"
+      },
+      {
+        "slug": "dragon-ranger",
+        "names": [
+          "Dragon Ranger Gaming"
+        ],
+        "logo": "logos/dragon-ranger.png"
+      },
+      {
+        "slug": "5-trace",
+        "names": [
+          "5 Trace Esports"
+        ],
+        "logo": "logos/5-trace.png"
+      },
+      {
+        "slug": "trace",
+        "names": [
+          "Trace Esports"
+        ],
+        "logo": "logos/trace.png"
+      },
+      {
+        "slug": "6-wolves",
+        "names": [
+          "6 Wolves Esports"
+        ],
+        "logo": "logos/6-wolves.png"
+      },
+      {
+        "slug": "wolves",
+        "names": [
+          "Wolves Esports"
+        ],
+        "logo": "logos/wolves.png"
+      },
+      {
+        "slug": "7-rare-atom",
+        "names": [
+          "7 Rare Atom"
+        ],
+        "logo": "logos/7-rare-atom.png"
+      },
+      {
+        "slug": "rare-atom",
+        "names": [
+          "Rare Atom"
+        ],
+        "logo": "logos/rare-atom.png"
+      },
+      {
+        "slug": "8-tyloo",
+        "names": [
+          "8 TYLOO"
+        ],
+        "logo": "logos/8-tyloo.png"
+      },
+      {
+        "slug": "tyloo",
+        "names": [
+          "TYLOO"
+        ],
+        "logo": "logos/tyloo.png"
+      },
+      {
+        "slug": "9-chosen-clique",
+        "names": [
+          "9 Chosen Clique Gaming"
+        ],
+        "logo": "logos/9-chosen-clique.png"
+      },
+      {
+        "slug": "chosen-clique",
+        "names": [
+          "Chosen Clique Gaming"
+        ],
+        "logo": "logos/chosen-clique.png"
+      },
+      {
+        "slug": "10-funplus-phoenix",
+        "names": [
+          "10 FunPlus Phoenix"
+        ],
+        "logo": "logos/10-funplus-phoenix.png"
+      },
+      {
+        "slug": "funplus-phoenix",
+        "names": [
+          "FunPlus Phoenix"
+        ],
+        "logo": "logos/funplus-phoenix.png"
+      },
+      {
+        "slug": "11-keepbest",
+        "names": [
+          "11 KeepBest Gaming"
+        ],
+        "logo": "logos/11-keepbest.png"
+      },
+      {
+        "slug": "keepbest",
+        "names": [
+          "KeepBest Gaming"
+        ],
+        "logo": "logos/keepbest.png"
+      },
+      {
+        "slug": "12-nova",
+        "names": [
+          "12 Nova Esports"
+        ],
+        "logo": "logos/12-nova.png"
+      },
+      {
+        "slug": "nova",
+        "names": [
+          "Nova Esports"
+        ],
+        "logo": "logos/nova.png"
+      },
+      {
+        "slug": "13-od",
+        "names": [
+          "13 OD Gaming"
+        ],
+        "logo": "logos/13-od.png"
+      },
+      {
+        "slug": "od",
+        "names": [
+          "OD Gaming"
+        ],
+        "logo": "logos/od.png"
+      },
+      {
+        "slug": "14-all-gamers",
+        "names": [
+          "14 All Gamers"
+        ],
+        "logo": "logos/14-all-gamers.png"
+      },
+      {
+        "slug": "all-gamers",
+        "names": [
+          "All Gamers"
+        ],
+        "logo": "logos/all-gamers.png"
+      },
+      {
+        "slug": "15-weibo",
+        "names": [
+          "15 Weibo Gaming"
+        ],
+        "logo": "logos/15-weibo.png"
+      },
+      {
+        "slug": "weibo",
+        "names": [
+          "Weibo Gaming"
+        ],
+        "logo": "logos/weibo.png"
+      }
+    ],
+    "JP": [
+      {
+        "slug": "1-riddle-order",
+        "names": [
+          "1 RIDDLE ORDER"
+        ],
+        "logo": "logos/1-riddle-order.png"
+      },
+      {
+        "slug": "riddle-order",
+        "names": [
+          "RIDDLE ORDER"
+        ],
+        "logo": "logos/riddle-order.png"
+      },
+      {
+        "slug": "2-fennel",
+        "names": [
+          "2 FENNEL"
+        ],
+        "logo": "logos/2-fennel.png"
+      },
+      {
+        "slug": "fennel",
+        "names": [
+          "FENNEL"
+        ],
+        "logo": "logos/fennel.png"
+      },
+      {
+        "slug": "3-zeta-division",
+        "names": [
+          "3 ZETA DIVISION"
+        ],
+        "logo": "logos/3-zeta-division.png"
+      },
+      {
+        "slug": "zeta-division",
+        "names": [
+          "ZETA DIVISION"
+        ],
+        "logo": "logos/zeta-division.png"
+      },
+      {
+        "slug": "4-noez-foxx",
+        "names": [
+          "4 NOEZ FOXX"
+        ],
+        "logo": "logos/4-noez-foxx.png"
+      },
+      {
+        "slug": "noez-foxx",
+        "names": [
+          "NOEZ FOXX"
+        ],
+        "logo": "logos/noez-foxx.png"
+      },
+      {
+        "slug": "5-delight",
+        "names": [
+          "5 Delight"
+        ],
+        "logo": "logos/5-delight.png"
+      },
+      {
+        "slug": "delight",
+        "names": [
+          "Delight"
+        ],
+        "logo": "logos/delight.png"
+      },
+      {
+        "slug": "6-detonation-focusme",
+        "names": [
+          "6 DetonatioN FocusMe"
+        ],
+        "logo": "logos/6-detonation-focusme.png"
+      },
+      {
+        "slug": "detonation-focusme",
+        "names": [
+          "DetonatioN FocusMe"
+        ],
+        "logo": "logos/detonation-focusme.png"
+      },
+      {
+        "slug": "7-crest-zst",
+        "names": [
+          "7 CREST GAMING Zst"
+        ],
+        "logo": "logos/7-crest-zst.png"
+      },
+      {
+        "slug": "crest-zst",
+        "names": [
+          "CREST GAMING Zst"
+        ],
+        "logo": "logos/crest-zst.png"
+      },
+      {
+        "slug": "8-qt-dig",
+        "names": [
+          "8 QT DIG∞"
+        ],
+        "logo": "logos/8-qt-dig.png"
+      },
+      {
+        "slug": "qt-dig",
+        "names": [
+          "QT DIG∞"
+        ],
+        "logo": "logos/qt-dig.png"
+      },
+      {
+        "slug": "9-scarz",
+        "names": [
+          "9 SCARZ"
+        ],
+        "logo": "logos/9-scarz.png"
+      },
+      {
+        "slug": "scarz",
+        "names": [
+          "SCARZ"
+        ],
+        "logo": "logos/scarz.png"
+      },
+      {
+        "slug": "10-reject",
+        "names": [
+          "10 REJECT"
+        ],
+        "logo": "logos/10-reject.png"
+      },
+      {
+        "slug": "reject",
+        "names": [
+          "REJECT"
+        ],
+        "logo": "logos/reject.png"
+      },
+      {
+        "slug": "11-murash",
+        "names": [
+          "11 Murash Gaming"
+        ],
+        "logo": "logos/11-murash.png"
+      },
+      {
+        "slug": "murash",
+        "names": [
+          "Murash Gaming"
+        ],
+        "logo": "logos/murash.png"
+      },
+      {
+        "slug": "12-blue-bees-esp",
+        "names": [
+          "12 BLUE BEES.ESP"
+        ],
+        "logo": "logos/12-blue-bees-esp.png"
+      },
+      {
+        "slug": "blue-bees-esp",
+        "names": [
+          "BLUE BEES.ESP"
+        ],
+        "logo": "logos/blue-bees-esp.png"
+      },
+      {
+        "slug": "13-citrus-e-sports",
+        "names": [
+          "13 Citrus e-sports"
+        ],
+        "logo": "logos/13-citrus-e-sports.png"
+      },
+      {
+        "slug": "citrus-e-sports",
+        "names": [
+          "Citrus e-sports"
+        ],
+        "logo": "logos/citrus-e-sports.png"
+      },
+      {
+        "slug": "14-seibi",
+        "names": [
+          "14 Team SEIBI"
+        ],
+        "logo": "logos/14-seibi.png"
+      },
+      {
+        "slug": "seibi",
+        "names": [
+          "Team SEIBI"
+        ],
+        "logo": "logos/seibi.png"
+      },
+      {
+        "slug": "15-solar-anthem",
+        "names": [
+          "15 SOLAR ANTHEM"
+        ],
+        "logo": "logos/15-solar-anthem.png"
+      },
+      {
+        "slug": "solar-anthem",
+        "names": [
+          "SOLAR ANTHEM"
+        ],
+        "logo": "logos/solar-anthem.png"
+      }
+    ],
+    "LAS": [
+      {
+        "slug": "1-leviatan-academy",
+        "names": [
+          "1 LEVIATÁN Academy"
+        ],
+        "logo": "logos/1-leviatan-academy.png"
+      },
+      {
+        "slug": "leviatan-academy",
+        "names": [
+          "LEVIATÁN Academy"
+        ],
+        "logo": "logos/leviatan-academy.png"
+      },
+      {
+        "slug": "2-kru",
+        "names": [
+          "2 KRÜ Esports"
+        ],
+        "logo": "logos/2-kru.png"
+      },
+      {
+        "slug": "kru",
+        "names": [
+          "KRÜ Esports"
+        ],
+        "logo": "logos/kru.png"
+      },
+      {
+        "slug": "3-oxen",
+        "names": [
+          "3 OXEN"
+        ],
+        "logo": "logos/3-oxen.png"
+      },
+      {
+        "slug": "oxen",
+        "names": [
+          "OXEN"
+        ],
+        "logo": "logos/oxen.png"
+      },
+      {
+        "slug": "4-9z",
+        "names": [
+          "4 9z Team"
+        ],
+        "logo": "logos/4-9z.png"
+      },
+      {
+        "slug": "9z",
+        "names": [
+          "9z Team"
+        ],
+        "logo": "logos/9z.png"
+      },
+      {
+        "slug": "5-mixpe",
+        "names": [
+          "5 MixPe"
+        ],
+        "logo": "logos/5-mixpe.png"
+      },
+      {
+        "slug": "mixpe",
+        "names": [
+          "MixPe"
+        ],
+        "logo": "logos/mixpe.png"
+      },
+      {
+        "slug": "6-kaos-latin-gamers",
+        "names": [
+          "6 Kaos Latin Gamers"
+        ],
+        "logo": "logos/6-kaos-latin-gamers.png"
+      },
+      {
+        "slug": "kaos-latin-gamers",
+        "names": [
+          "Kaos Latin Gamers"
+        ],
+        "logo": "logos/kaos-latin-gamers.png"
+      },
+      {
+        "slug": "7-warning",
+        "names": [
+          "7 Warning!"
+        ],
+        "logo": "logos/7-warning.png"
+      },
+      {
+        "slug": "warning",
+        "names": [
+          "Warning!"
+        ],
+        "logo": "logos/warning.png"
+      },
+      {
+        "slug": "8-australs",
+        "names": [
+          "8 Australs"
+        ],
+        "logo": "logos/8-australs.png"
+      },
+      {
+        "slug": "australs",
+        "names": [
+          "Australs"
+        ],
+        "logo": "logos/australs.png"
+      },
+      {
+        "slug": "9-six-karma-b",
+        "names": [
+          "9 Six Karma B"
+        ],
+        "logo": "logos/9-six-karma-b.png"
+      },
+      {
+        "slug": "six-karma-b",
+        "names": [
+          "Six Karma B"
+        ],
+        "logo": "logos/six-karma-b.png"
+      },
+      {
+        "slug": "10-dolphins",
+        "names": [
+          "10 Dolphins Gaming"
+        ],
+        "logo": "logos/10-dolphins.png"
+      },
+      {
+        "slug": "dolphins",
+        "names": [
+          "Dolphins Gaming"
+        ],
+        "logo": "logos/dolphins.png"
+      },
+      {
+        "slug": "11-eternal-flame",
+        "names": [
+          "11 Eternal Flame"
+        ],
+        "logo": "logos/11-eternal-flame.png"
+      },
+      {
+        "slug": "eternal-flame",
+        "names": [
+          "Eternal Flame"
+        ],
+        "logo": "logos/eternal-flame.png"
+      },
+      {
+        "slug": "12-inside",
+        "names": [
+          "12 inside"
+        ],
+        "logo": "logos/12-inside.png"
+      },
+      {
+        "slug": "inside",
+        "names": [
+          "inside"
+        ],
+        "logo": "logos/inside.png"
+      },
+      {
+        "slug": "13-oxen-bull-beats",
+        "names": [
+          "13 OXEN BULL BEATS"
+        ],
+        "logo": "logos/13-oxen-bull-beats.png"
+      },
+      {
+        "slug": "oxen-bull-beats",
+        "names": [
+          "OXEN BULL BEATS"
+        ],
+        "logo": "logos/oxen-bull-beats.png"
+      },
+      {
+        "slug": "14-alt-f4",
+        "names": [
+          "14 ALT F4"
+        ],
+        "logo": "logos/14-alt-f4.png"
+      },
+      {
+        "slug": "alt-f4",
+        "names": [
+          "ALT F4"
+        ],
+        "logo": "logos/alt-f4.png"
+      },
+      {
+        "slug": "15-kru-blaze",
+        "names": [
+          "15 KRÜ BLAZE"
+        ],
+        "logo": "logos/15-kru-blaze.png"
+      },
+      {
+        "slug": "kru-blaze",
+        "names": [
+          "KRÜ BLAZE"
+        ],
+        "logo": "logos/kru-blaze.png"
+      }
+    ],
+    "LAN": [
+      {
+        "slug": "1-e-xolos-lazer",
+        "names": [
+          "1 E-Xolos LAZER"
+        ],
+        "logo": "logos/1-e-xolos-lazer.png"
+      },
+      {
+        "slug": "e-xolos-lazer",
+        "names": [
+          "E-Xolos LAZER"
+        ],
+        "logo": "logos/e-xolos-lazer.png"
+      },
+      {
+        "slug": "2-six-karma",
+        "names": [
+          "2 Six Karma"
+        ],
+        "logo": "logos/2-six-karma.png"
+      },
+      {
+        "slug": "six-karma",
+        "names": [
+          "Six Karma"
+        ],
+        "logo": "logos/six-karma.png"
+      },
+      {
+        "slug": "3-shinden",
+        "names": [
+          "3 ShindeN"
+        ],
+        "logo": "logos/3-shinden.png"
+      },
+      {
+        "slug": "shinden",
+        "names": [
+          "ShindeN"
+        ],
+        "logo": "logos/shinden.png"
+      },
+      {
+        "slug": "4-ufoxskalle",
+        "names": [
+          "4 UFOXSkalle"
+        ],
+        "logo": "logos/4-ufoxskalle.png"
+      },
+      {
+        "slug": "ufoxskalle",
+        "names": [
+          "UFOXSkalle"
+        ],
+        "logo": "logos/ufoxskalle.png"
+      },
+      {
+        "slug": "5-contra",
+        "names": [
+          "5 Contra"
+        ],
+        "logo": "logos/5-contra.png"
+      },
+      {
+        "slug": "contra",
+        "names": [
+          "Contra"
+        ],
+        "logo": "logos/contra.png"
+      },
+      {
+        "slug": "6-exotick",
+        "names": [
+          "6 EXOTICK ESPORTS"
+        ],
+        "logo": "logos/6-exotick.png"
+      },
+      {
+        "slug": "exotick",
+        "names": [
+          "EXOTICK ESPORTS"
+        ],
+        "logo": "logos/exotick.png"
+      },
+      {
+        "slug": "7-fusion",
+        "names": [
+          "7 FUSION"
+        ],
+        "logo": "logos/7-fusion.png"
+      },
+      {
+        "slug": "fusion",
+        "names": [
+          "FUSION"
+        ],
+        "logo": "logos/fusion.png"
+      },
+      {
+        "slug": "8-farmakas",
+        "names": [
+          "8 Farmakas"
+        ],
+        "logo": "logos/8-farmakas.png"
+      },
+      {
+        "slug": "farmakas",
+        "names": [
+          "Farmakas"
+        ],
+        "logo": "logos/farmakas.png"
+      },
+      {
+        "slug": "9-solovinos",
+        "names": [
+          "9 Solovinos"
+        ],
+        "logo": "logos/9-solovinos.png"
+      },
+      {
+        "slug": "solovinos",
+        "names": [
+          "Solovinos"
+        ],
+        "logo": "logos/solovinos.png"
+      },
+      {
+        "slug": "10-sadhub",
+        "names": [
+          "10 SadHub Esports"
+        ],
+        "logo": "logos/10-sadhub.png"
+      },
+      {
+        "slug": "sadhub",
+        "names": [
+          "SadHub Esports"
+        ],
+        "logo": "logos/sadhub.png"
+      },
+      {
+        "slug": "11-relay",
+        "names": [
+          "11 Relay Team"
+        ],
+        "logo": "logos/11-relay.png"
+      },
+      {
+        "slug": "relay",
+        "names": [
+          "Relay Team"
+        ],
+        "logo": "logos/relay.png"
+      },
+      {
+        "slug": "12-chivas",
+        "names": [
+          "12 Chivas Esports"
+        ],
+        "logo": "logos/12-chivas.png"
+      },
+      {
+        "slug": "chivas",
+        "names": [
+          "Chivas Esports"
+        ],
+        "logo": "logos/chivas.png"
+      },
+      {
+        "slug": "13-spx-crew",
+        "names": [
+          "13 Spx Crew"
+        ],
+        "logo": "logos/13-spx-crew.png"
+      },
+      {
+        "slug": "spx-crew",
+        "names": [
+          "Spx Crew"
+        ],
+        "logo": "logos/spx-crew.png"
+      },
+      {
+        "slug": "14-old-school-kr3w",
+        "names": [
+          "14 Old School Kr3w"
+        ],
+        "logo": "logos/14-old-school-kr3w.png"
+      },
+      {
+        "slug": "old-school-kr3w",
+        "names": [
+          "Old School Kr3w"
+        ],
+        "logo": "logos/old-school-kr3w.png"
+      },
+      {
+        "slug": "15-fuego",
+        "names": [
+          "15 FUEGO"
+        ],
+        "logo": "logos/15-fuego.png"
+      },
+      {
+        "slug": "fuego",
+        "names": [
+          "FUEGO"
+        ],
+        "logo": "logos/fuego.png"
+      }
+    ],
+    "OCE": [
+      {
+        "slug": "1-e-king",
+        "names": [
+          "1 E-KING"
+        ],
+        "logo": "logos/1-e-king.png"
+      },
+      {
+        "slug": "e-king",
+        "names": [
+          "E-KING"
+        ],
+        "logo": "logos/e-king.png"
+      },
+      {
+        "slug": "2-full-house",
+        "names": [
+          "2 Full House"
+        ],
+        "logo": "logos/2-full-house.png"
+      },
+      {
+        "slug": "full-house",
+        "names": [
+          "Full House"
+        ],
+        "logo": "logos/full-house.png"
+      },
+      {
+        "slug": "3-abbas-and-friends",
+        "names": [
+          "3 Abbas and Friends"
+        ],
+        "logo": "logos/3-abbas-and-friends.png"
+      },
+      {
+        "slug": "abbas-and-friends",
+        "names": [
+          "Abbas and Friends"
+        ],
+        "logo": "logos/abbas-and-friends.png"
+      },
+      {
+        "slug": "4-bobo",
+        "names": [
+          "4 BOBO"
+        ],
+        "logo": "logos/4-bobo.png"
+      },
+      {
+        "slug": "bobo",
+        "names": [
+          "BOBO"
+        ],
+        "logo": "logos/bobo.png"
+      },
+      {
+        "slug": "5-vina-side-hustle",
+        "names": [
+          "5 VINA SIDE HUSTLE"
+        ],
+        "logo": "logos/5-vina-side-hustle.png"
+      },
+      {
+        "slug": "vina-side-hustle",
+        "names": [
+          "VINA SIDE HUSTLE"
+        ],
+        "logo": "logos/vina-side-hustle.png"
+      },
+      {
+        "slug": "6-og",
+        "names": [
+          "6 OG"
+        ],
+        "logo": "logos/6-og.png"
+      },
+      {
+        "slug": "og",
+        "names": [
+          "OG"
+        ],
+        "logo": "logos/og.png"
+      },
+      {
+        "slug": "7-marlon-n-friends",
+        "names": [
+          "7 Marlon N Friends"
+        ],
+        "logo": "logos/7-marlon-n-friends.png"
+      },
+      {
+        "slug": "marlon-n-friends",
+        "names": [
+          "Marlon N Friends"
+        ],
+        "logo": "logos/marlon-n-friends.png"
+      },
+      {
+        "slug": "8-care-mid",
+        "names": [
+          "8 Care Mid"
+        ],
+        "logo": "logos/8-care-mid.png"
+      },
+      {
+        "slug": "care-mid",
+        "names": [
+          "Care Mid"
+        ],
+        "logo": "logos/care-mid.png"
+      },
+      {
+        "slug": "9-peace-and-love",
+        "names": [
+          "9 Peace And Love"
+        ],
+        "logo": "logos/9-peace-and-love.png"
+      },
+      {
+        "slug": "peace-and-love",
+        "names": [
+          "Peace And Love"
+        ],
+        "logo": "logos/peace-and-love.png"
+      },
+      {
+        "slug": "10-edge",
+        "names": [
+          "10 EDGE"
+        ],
+        "logo": "logos/10-edge.png"
+      },
+      {
+        "slug": "edge",
+        "names": [
+          "EDGE"
+        ],
+        "logo": "logos/edge.png"
+      },
+      {
+        "slug": "11-xyz",
+        "names": [
+          "11 xyz"
+        ],
+        "logo": "logos/11-xyz.png"
+      },
+      {
+        "slug": "xyz",
+        "names": [
+          "xyz"
+        ],
+        "logo": "logos/xyz.png"
+      },
+      {
+        "slug": "12-rabbit-gang",
+        "names": [
+          "12 rabbit gang"
+        ],
+        "logo": "logos/12-rabbit-gang.png"
+      },
+      {
+        "slug": "rabbit-gang",
+        "names": [
+          "rabbit gang"
+        ],
+        "logo": "logos/rabbit-gang.png"
+      },
+      {
+        "slug": "13-burger",
+        "names": [
+          "13 Team Burger"
+        ],
+        "logo": "logos/13-burger.png"
+      },
+      {
+        "slug": "burger",
+        "names": [
+          "Team Burger"
+        ],
+        "logo": "logos/burger.png"
+      },
+      {
+        "slug": "14-nx",
+        "names": [
+          "14 NX"
+        ],
+        "logo": "logos/14-nx.png"
+      },
+      {
+        "slug": "nx",
+        "names": [
+          "NX"
+        ],
+        "logo": "logos/nx.png"
+      },
+      {
+        "slug": "15-elevate",
+        "names": [
+          "15 Elevate"
+        ],
+        "logo": "logos/15-elevate.png"
+      },
+      {
+        "slug": "elevate",
+        "names": [
+          "Elevate"
+        ],
+        "logo": "logos/elevate.png"
+      }
+    ],
+    "MENA": [
+      {
+        "slug": "1-twisted-minds",
+        "names": [
+          "1 Twisted Minds"
+        ],
+        "logo": "logos/1-twisted-minds.png"
+      },
+      {
+        "slug": "twisted-minds",
+        "names": [
+          "Twisted Minds"
+        ],
+        "logo": "logos/twisted-minds.png"
+      },
+      {
+        "slug": "2-the-ultimates",
+        "names": [
+          "2 The Ultimates"
+        ],
+        "logo": "logos/2-the-ultimates.png"
+      },
+      {
+        "slug": "the-ultimates",
+        "names": [
+          "The Ultimates"
+        ],
+        "logo": "logos/the-ultimates.png"
+      },
+      {
+        "slug": "3-raad",
+        "names": [
+          "3 Team RA'AD"
+        ],
+        "logo": "logos/3-raad.png"
+      },
+      {
+        "slug": "raad",
+        "names": [
+          "Team RA'AD"
+        ],
+        "logo": "logos/raad.png"
+      },
+      {
+        "slug": "4-alqadsiah",
+        "names": [
+          "4 AlQadsiah Esports"
+        ],
+        "logo": "logos/4-alqadsiah.png"
+      },
+      {
+        "slug": "alqadsiah",
+        "names": [
+          "AlQadsiah Esports"
+        ],
+        "logo": "logos/alqadsiah.png"
+      },
+      {
+        "slug": "5-gamax",
+        "names": [
+          "5 Gamax Esports"
+        ],
+        "logo": "logos/5-gamax.png"
+      },
+      {
+        "slug": "gamax",
+        "names": [
+          "Gamax Esports"
+        ],
+        "logo": "logos/gamax.png"
+      },
+      {
+        "slug": "6-nobles",
+        "names": [
+          "6 NOBLES"
+        ],
+        "logo": "logos/6-nobles.png"
+      },
+      {
+        "slug": "nobles",
+        "names": [
+          "NOBLES"
+        ],
+        "logo": "logos/nobles.png"
+      },
+      {
+        "slug": "7-stallions",
+        "names": [
+          "7 Stallions Esports"
+        ],
+        "logo": "logos/7-stallions.png"
+      },
+      {
+        "slug": "stallions",
+        "names": [
+          "Stallions Esports"
+        ],
+        "logo": "logos/stallions.png"
+      },
+      {
+        "slug": "8-baam",
+        "names": [
+          "8 BAAM Esports"
+        ],
+        "logo": "logos/8-baam.png"
+      },
+      {
+        "slug": "baam",
+        "names": [
+          "BAAM Esports"
+        ],
+        "logo": "logos/baam.png"
+      },
+      {
+        "slug": "9-elso7ba",
+        "names": [
+          "9 Elso7ba"
+        ],
+        "logo": "logos/9-elso7ba.png"
+      },
+      {
+        "slug": "elso7ba",
+        "names": [
+          "Elso7ba"
+        ],
+        "logo": "logos/elso7ba.png"
+      },
+      {
+        "slug": "10-3bl",
+        "names": [
+          "10 3BL Esports"
+        ],
+        "logo": "logos/10-3bl.png"
+      },
+      {
+        "slug": "3bl",
+        "names": [
+          "3BL Esports"
+        ],
+        "logo": "logos/3bl.png"
+      },
+      {
+        "slug": "11-5kstudios",
+        "names": [
+          "11 5KStudios"
+        ],
+        "logo": "logos/11-5kstudios.png"
+      },
+      {
+        "slug": "5kstudios",
+        "names": [
+          "5KStudios"
+        ],
+        "logo": "logos/5kstudios.png"
+      },
+      {
+        "slug": "12-manga",
+        "names": [
+          "12 manga"
+        ],
+        "logo": "logos/12-manga.png"
+      },
+      {
+        "slug": "manga",
+        "names": [
+          "manga"
+        ],
+        "logo": "logos/manga.png"
+      },
+      {
+        "slug": "13-fraggerz",
+        "names": [
+          "13 Fraggerz"
+        ],
+        "logo": "logos/13-fraggerz.png"
+      },
+      {
+        "slug": "fraggerz",
+        "names": [
+          "Fraggerz"
+        ],
+        "logo": "logos/fraggerz.png"
+      },
+      {
+        "slug": "14-orgless-2-0",
+        "names": [
+          "14 Orgless 2.0"
+        ],
+        "logo": "logos/14-orgless-2-0.png"
+      },
+      {
+        "slug": "orgless-2-0",
+        "names": [
+          "Orgless 2.0"
+        ],
+        "logo": "logos/orgless-2-0.png"
+      },
+      {
+        "slug": "15-gng",
+        "names": [
+          "15 GnG Esports"
+        ],
+        "logo": "logos/15-gng.png"
+      },
+      {
+        "slug": "gng",
+        "names": [
+          "GnG Esports"
+        ],
+        "logo": "logos/gng.png"
+      }
+    ],
+    "GC": [
+      {
+        "slug": "1-shopify-rebellion-gold",
+        "names": [
+          "1 Shopify Rebellion Gold"
+        ],
+        "logo": "logos/1-shopify-rebellion-gold.png"
+      },
+      {
+        "slug": "shopify-rebellion-gold",
+        "names": [
+          "Shopify Rebellion Gold"
+        ],
+        "logo": "logos/shopify-rebellion-gold.png"
+      },
+      {
+        "slug": "2-liquid-brazil",
+        "names": [
+          "2 Team Liquid Brazil"
+        ],
+        "logo": "logos/2-liquid-brazil.png"
+      },
+      {
+        "slug": "liquid-brazil",
+        "names": [
+          "Team Liquid Brazil"
+        ],
+        "logo": "logos/liquid-brazil.png"
+      },
+      {
+        "slug": "3-falcons-vega",
+        "names": [
+          "3 Team Falcons Vega"
+        ],
+        "logo": "logos/3-falcons-vega.png"
+      },
+      {
+        "slug": "falcons-vega",
+        "names": [
+          "Team Falcons Vega"
+        ],
+        "logo": "logos/falcons-vega.png"
+      },
+      {
+        "slug": "4-kru-blaze",
+        "names": [
+          "4 KRÜ BLAZE"
+        ],
+        "logo": "logos/4-kru-blaze.png"
+      },
+      {
+        "slug": "kru-blaze",
+        "names": [
+          "KRÜ BLAZE"
+        ],
+        "logo": "logos/kru-blaze.png"
+      },
+      {
+        "slug": "5-g2-gozen",
+        "names": [
+          "5 G2 Gozen"
+        ],
+        "logo": "logos/5-g2-gozen.png"
+      },
+      {
+        "slug": "g2-gozen",
+        "names": [
+          "G2 Gozen"
+        ],
+        "logo": "logos/g2-gozen.png"
+      },
+      {
+        "slug": "6-mibr",
+        "names": [
+          "6 MIBR GC"
+        ],
+        "logo": "logos/6-mibr.png"
+      },
+      {
+        "slug": "mibr",
+        "names": [
+          "MIBR",
+          "MIBR GC"
+        ],
+        "logo": "logos/mibr.png"
+      },
+      {
+        "slug": "7-akave",
+        "names": [
+          "7 Akave Esports GC"
+        ],
+        "logo": "logos/7-akave.png"
+      },
+      {
+        "slug": "akave",
+        "names": [
+          "Akave Esports GC"
+        ],
+        "logo": "logos/akave.png"
+      },
+      {
+        "slug": "8-giantx",
+        "names": [
+          "8 GIANTX GC"
+        ],
+        "logo": "logos/8-giantx.png"
+      },
+      {
+        "slug": "giantx",
+        "names": [
+          "GIANTX GC"
+        ],
+        "logo": "logos/giantx.png"
+      },
+      {
+        "slug": "9-karmine-corp",
+        "names": [
+          "9 Karmine Corp",
+          "9 Karmine Corp GC"
+        ],
+        "logo": "logos/9-karmine-corp.png"
+      },
+      {
+        "slug": "karmine-corp",
+        "names": [
+          "Karmine Corp",
+          "Karmine Corp GC"
+        ],
+        "logo": "logos/karmine-corp.png"
+      },
+      {
+        "slug": "10-sk-nebula",
+        "names": [
+          "10 SK Nebula"
+        ],
+        "logo": "logos/10-sk-nebula.png"
+      },
+      {
+        "slug": "sk-nebula",
+        "names": [
+          "SK Nebula"
+        ],
+        "logo": "logos/sk-nebula.png"
+      },
+      {
+        "slug": "11-wadadaa",
+        "names": [
+          "11 Wadadaa"
+        ],
+        "logo": "logos/11-wadadaa.png"
+      },
+      {
+        "slug": "wadadaa",
+        "names": [
+          "Wadadaa"
+        ],
+        "logo": "logos/wadadaa.png"
+      },
+      {
+        "slug": "12-xipto",
+        "names": [
+          "12 Xipto Esports",
+          "12 Xipto Esports GC"
+        ],
+        "logo": "logos/12-xipto.png"
+      },
+      {
+        "slug": "xipto",
+        "names": [
+          "Xipto Esports",
+          "Xipto Esports GC"
+        ],
+        "logo": "logos/xipto.png"
+      },
+      {
+        "slug": "13-ninetails",
+        "names": [
+          "13 Ninetails"
+        ],
+        "logo": "logos/13-ninetails.png"
+      },
+      {
+        "slug": "ninetails",
+        "names": [
+          "Ninetails"
+        ],
+        "logo": "logos/ninetails.png"
+      },
+      {
+        "slug": "14-mad-army",
+        "names": [
+          "14 MAD Army"
+        ],
+        "logo": "logos/14-mad-army.png"
+      },
+      {
+        "slug": "mad-army",
+        "names": [
+          "MAD Army"
+        ],
+        "logo": "logos/mad-army.png"
+      },
+      {
+        "slug": "15-twisted-minds-orchid",
+        "names": [
+          "15 Twisted Minds Orchid"
+        ],
+        "logo": "logos/15-twisted-minds-orchid.png"
+      },
+      {
+        "slug": "twisted-minds-orchid",
+        "names": [
+          "Twisted Minds Orchid"
+        ],
+        "logo": "logos/twisted-minds-orchid.png"
+      }
+    ],
+    "CG": [
+      {
+        "slug": "1-maryville-university",
+        "names": [
+          "1 Maryville University"
+        ],
+        "logo": "logos/1-maryville-university.png"
+      },
+      {
+        "slug": "maryville-university",
+        "names": [
+          "Maryville University"
+        ],
+        "logo": "logos/maryville-university.png"
+      },
+      {
+        "slug": "2-winthrop-university",
+        "names": [
+          "2 Winthrop University"
+        ],
+        "logo": "logos/2-winthrop-university.png"
+      },
+      {
+        "slug": "winthrop-university",
+        "names": [
+          "Winthrop University"
+        ],
+        "logo": "logos/winthrop-university.png"
+      },
+      {
+        "slug": "3-northwood-university",
+        "names": [
+          "3 Northwood University"
+        ],
+        "logo": "logos/3-northwood-university.png"
+      },
+      {
+        "slug": "northwood-university",
+        "names": [
+          "Northwood University"
+        ],
+        "logo": "logos/northwood-university.png"
+      },
+      {
+        "slug": "4-ust",
+        "names": [
+          "4 UST Esports"
+        ],
+        "logo": "logos/4-ust.png"
+      },
+      {
+        "slug": "ust",
+        "names": [
+          "UST Esports"
+        ],
+        "logo": "logos/ust.png"
+      },
+      {
+        "slug": "5-cumberland-phoenix",
+        "names": [
+          "5 Cumberland Phoenix"
+        ],
+        "logo": "logos/5-cumberland-phoenix.png"
+      },
+      {
+        "slug": "cumberland-phoenix",
+        "names": [
+          "Cumberland Phoenix"
+        ],
+        "logo": "logos/cumberland-phoenix.png"
+      },
+      {
+        "slug": "6-tamu-maroon",
+        "names": [
+          "6 TAMU Maroon"
+        ],
+        "logo": "logos/6-tamu-maroon.png"
+      },
+      {
+        "slug": "tamu-maroon",
+        "names": [
+          "TAMU Maroon"
+        ],
+        "logo": "logos/tamu-maroon.png"
+      },
+      {
+        "slug": "7-st-clair-saints",
+        "names": [
+          "7 St. Clair Saints"
+        ],
+        "logo": "logos/7-st-clair-saints.png"
+      },
+      {
+        "slug": "st-clair-saints",
+        "names": [
+          "St. Clair Saints"
+        ],
+        "logo": "logos/st-clair-saints.png"
+      },
+      {
+        "slug": "8-san-jose-state-university",
+        "names": [
+          "8 San Jose State University"
+        ],
+        "logo": "logos/8-san-jose-state-university.png"
+      },
+      {
+        "slug": "san-jose-state-university",
+        "names": [
+          "San Jose State University"
+        ],
+        "logo": "logos/san-jose-state-university.png"
+      },
+      {
+        "slug": "9-uc-irvine",
+        "names": [
+          "9 UC Irvine"
+        ],
+        "logo": "logos/9-uc-irvine.png"
+      },
+      {
+        "slug": "uc-irvine",
+        "names": [
+          "UC Irvine"
+        ],
+        "logo": "logos/uc-irvine.png"
+      },
+      {
+        "slug": "10-fisher-navy",
+        "names": [
+          "10 Fisher Navy"
+        ],
+        "logo": "logos/10-fisher-navy.png"
+      },
+      {
+        "slug": "fisher-navy",
+        "names": [
+          "Fisher Navy"
+        ],
+        "logo": "logos/fisher-navy.png"
+      },
+      {
+        "slug": "11-university-of-central-florida",
+        "names": [
+          "11 University of Central Florida"
+        ],
+        "logo": "logos/11-university-of-central-florida.png"
+      },
+      {
+        "slug": "university-of-central-florida",
+        "names": [
+          "University of Central Florida"
+        ],
+        "logo": "logos/university-of-central-florida.png"
+      },
+      {
+        "slug": "12-csuf-orange",
+        "names": [
+          "12 CSUF Orange"
+        ],
+        "logo": "logos/12-csuf-orange.png"
+      },
+      {
+        "slug": "csuf-orange",
+        "names": [
+          "CSUF Orange"
+        ],
+        "logo": "logos/csuf-orange.png"
+      },
+      {
+        "slug": "13-uwaterloo-gold",
+        "names": [
+          "13 UWaterloo Gold"
+        ],
+        "logo": "logos/13-uwaterloo-gold.png"
+      },
+      {
+        "slug": "uwaterloo-gold",
+        "names": [
+          "UWaterloo Gold"
+        ],
+        "logo": "logos/uwaterloo-gold.png"
+      },
+      {
+        "slug": "14-binus-x-widyatama",
+        "names": [
+          "14 Binus x Widyatama"
+        ],
+        "logo": "logos/14-binus-x-widyatama.png"
+      },
+      {
+        "slug": "binus-x-widyatama",
+        "names": [
+          "Binus x Widyatama"
+        ],
+        "logo": "logos/binus-x-widyatama.png"
+      },
+      {
+        "slug": "15-west-virginia-university",
+        "names": [
+          "15 West Virginia University"
+        ],
+        "logo": "logos/15-west-virginia-university.png"
+      },
+      {
+        "slug": "west-virginia-university",
+        "names": [
+          "West Virginia University"
+        ],
+        "logo": "logos/west-virginia-university.png"
+      }
+    ]
+  }
+}
